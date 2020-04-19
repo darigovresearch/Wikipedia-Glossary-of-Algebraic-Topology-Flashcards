@@ -1,6 +1,6 @@
-"<dt class=""glossary"" id=""*"" style=""margin-top: 0.4em;""><dfn class=""glossary"">*</dfn></dt>"¬"
+"*"¬"
 <dd class=""glossary"">The base point of a based space.</dd>"
-"<dt class=""glossary"" id=""&#39;`UNIQ--math-00000003-QINU`&#39;"" style=""margin-top: 0.4em;""><dfn class=""glossary""><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X_{+}}"">
+"<span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X_{+}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -14,21 +14,21 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle X_{+}}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0f9caabc2ead6f82a8123d91b123018e6e7c48b8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:3.435ex; height:2.509ex;"" alt=""X_{+}""/></span></dfn></dt>"¬"
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0f9caabc2ead6f82a8123d91b123018e6e7c48b8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:3.435ex; height:2.509ex;"" alt=""X_{+}""/></span"¬"
 <dd class=""glossary"">For an unbased space <i>X</i>, <i>X</i><sub>+</sub> is the based space obtained by adjoining a disjoint base point.</dd>"
-"<dt class=""glossary"" id=""absolute_neighborhood_retract"" style=""margin-top: 0.4em;""><dfn class=""glossary"">absolute neighborhood retract</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""abstract"" style=""margin-top: 0.4em;""><dfn class=""glossary"">abstract</dfn></dt>"¬"
+"absolute neighborhood retract"¬"TODO"
+"abstract"¬"
 <dd class=""glossary"">1.&#160;&#160;Abstract homotopy theory</dd>
 "
-"<dt class=""glossary"" id=""adams"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Adams</dfn></dt>"¬"
+"Adams"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/John_Frank_Adams"" class=""mw-redirect"" title=""John Frank Adams"">John Frank Adams</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Adams_spectral_sequence"" title=""Adams spectral sequence"">Adams spectral sequence</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Adams_conjecture"" class=""mw-redirect"" title=""Adams conjecture"">Adams conjecture</a>.</dd>
 <dd class=""glossary"">4.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Adams_e-invariant"" class=""mw-redirect"" title=""Adams e-invariant"">Adams <i>e</i>-invariant</a>.</dd>
 <dd class=""glossary"">5.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Adams_operations"" class=""mw-redirect"" title=""Adams operations"">Adams operations</a>.</dd>
 "
-"<dt class=""glossary"" id=""alexander_duality"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Alexander duality</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""alexander_trick"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Alexander trick</dfn></dt>"¬"
+"Alexander duality"¬"TODO"
+"Alexander trick"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Alexander_trick"" class=""mw-redirect"" title=""Alexander trick"">Alexander trick</a>  produces a section of the restriction map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Top} (D^{n+1})\to \operatorname {Top} (S^{n})}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -152,28 +152,28 @@
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/881dcc49117713e2810c654e808c74b9fa60b4f3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:46.162ex; height:3.176ex;"" alt=""{\displaystyle {\widetilde {f}}:D^{n+1}\to D^{n+1},\,0\mapsto 0,0\neq x\mapsto |x|f(x/|x|)}""/></span>.</dd></dl>
 This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup></dd>
 "
-"<dt class=""glossary"" id=""analysis_situs"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Analysis Situs</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""aspherical_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">aspherical space</dfn></dt>"¬"
+"Analysis Situs"¬"TODO"
+"aspherical space"¬"
 {{defn|1=[[Aspherical space]}}
 "
-"<dt class=""glossary"" id=""assembly_map"" style=""margin-top: 0.4em;""><dfn class=""glossary"">assembly map</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""atiyah"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Atiyah</dfn></dt>"¬"
+"assembly map"¬"TODO"
+"Atiyah"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Michael_Atiyah"" title=""Michael Atiyah"">Michael Atiyah</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/w/index.php?title=Atiyah_duality&amp;action=edit&amp;redlink=1"" class=""new"" title=""Atiyah duality (page does not exist)"">Atiyah duality</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Atiyah%E2%80%93Hirzebruch_spectral_sequence"" title=""Atiyah–Hirzebruch spectral sequence"">Atiyah–Hirzebruch spectral sequence</a>.</dd>
 "
-"<dt class=""glossary"" id=""bar_construction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">bar construction</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""based_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">based space</dfn></dt>"¬"
+"bar construction"¬"TODO"
+"based space"¬"
 <dd class=""glossary"">A pair (<i>X</i>, <i>x</i><sub>0</sub>) consisting of a space <i>X</i> and a point <i>x</i><sub>0</sub> in <i>X</i>.</dd>
 "
-"<dt class=""glossary"" id=""betti_number"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Betti number</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""bockstein_homomorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Bockstein homomorphism</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""borel"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Borel</dfn></dt>"¬"
+"Betti number"¬"TODO"
+"Bockstein homomorphism"¬"TODO"
+"Borel"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Borel_conjecture"" title=""Borel conjecture"">Borel conjecture</a>.</dd>
 "
-"<dt class=""glossary"" id=""borel–moore_homology"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Borel–Moore homology</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""borsuk&#39;s_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Borsuk's theorem</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""bott"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Bott</dfn></dt>"¬"
+"Borel–Moore homology"¬"TODO"
+"Borsuk's theorem"¬"TODO"
+"Bott"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Raoul_Bott"" title=""Raoul Bott"">Raoul Bott</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Bott_periodicity_theorem"" title=""Bott periodicity theorem"">Bott periodicity theorem</a> for unitary groups say: <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{q}U=\pi _{q+2}U,q\geq 0}"">
   <semantics>
@@ -236,7 +236,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/14eef1eadbd0d835f03ebe9c41c7f57eb9000271"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:19.737ex; height:2.843ex;"" alt=""\pi _{q}O=\pi _{q+8}O,q\geq 0""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""brouwer_fixed_point_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Brouwer fixed point theorem</dfn></dt>"¬"
+"Brouwer fixed point theorem"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem"" title=""Brouwer fixed-point theorem"">Brouwer fixed-point theorem</a> says that any map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:D^{n}\to D^{n}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -261,9 +261,9 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
     <annotation encoding=""application/x-tex"">{\displaystyle f:D^{n}\to D^{n}}</annotation>
   </semantics>
 "</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fe2435e711c75b153e3e4695b61eb469f198af0d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:13.115ex; height:2.676ex;"" alt=""f:D^{n}\to D^{n}""/></span> has a fixed point.</dd>
-"<dt class=""glossary"" id=""cap_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cap product</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""čech_cohomology"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Čech cohomology</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""cellular"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cellular</dfn></dt>"¬"
+"cap product"¬"TODO"
+"Čech cohomology"¬"TODO"
+"cellular"¬"
 <dd class=""glossary"">1.&#160;&#160;A map ƒ:<i>X</i>→<i>Y</i> between CW complexes is <a href=""https://en.wikipedia.org/wiki/Cellular_map"" class=""mw-redirect"" title=""Cellular map"">cellular</a> if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f(X^{n})\subset Y^{n}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -292,7 +292,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Cellular_approximation_theorem"" title=""Cellular approximation theorem"">cellular approximation theorem</a> says that every map between CW complexes is homotopic to a <a href=""https://en.wikipedia.org/wiki/Cellular_map"" class=""mw-redirect"" title=""Cellular map"">cellular map</a> between them.</dd>
 <dd class=""glossary"">3.&#160;&#160;The  <a href=""https://en.wikipedia.org/wiki/Cellular_homology"" title=""Cellular homology"">cellular homology</a> is the (canonical) homology of a CW complex. Note it applies to CW complexes and not to spaces in general. A cellular homology is highly computable; it is especially useful for spaces with natural cell decompositions like projective spaces or Grassmannian.</dd>
 "
-"<dt class=""glossary"" id=""chain_homotopy"" style=""margin-top: 0.4em;""><dfn class=""glossary"">chain homotopy</dfn></dt>"¬"
+"chain homotopy"¬"
 <dd class=""glossary"">Given chain maps <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f,g:(C,d_{C})\to (D,d_{D})}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -409,7 +409,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/5ffb10869b1557969a4aca6ceb64e6326de927d6"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:28.389ex; height:2.509ex;"" alt=""f_{i}-g_{i}=d_{D}\circ s_{i}+s_{i-1}\circ d_{C}""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""chain_map"" style=""margin-top: 0.4em;""><dfn class=""glossary"">chain map</dfn></dt>"¬"
+"chain map"¬"
 <dd class=""glossary"">A chain map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:(C,d_{C})\to (D,d_{D})}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -508,13 +508,13 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/00da16210f47dba9ec32463038d0d50025c97271"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:18.958ex; height:2.509ex;"" alt=""d_{D}\circ f_{i}=f_{i-1}\circ d_{C}""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""chain_homotopy_equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">chain homotopy equivalence</dfn></dt>"¬"
+"chain homotopy equivalence"¬"
 <dd class=""glossary"">A chain map that is an isomorphism up to chain homotopy; that is, if <i>ƒ</i>:<i>C</i>→<i>D</i> is a chain map, then it is a chain homotopy equivalence if there is a chain map <i>g</i>:<i>D</i>→<i>C</i> such that <i>g</i>ƒ and ƒ<i>g</i> are chain homotopic to the identity homomorphisms on <i>C</i> and <i>D</i>, respectively.</dd>
 "
-"<dt class=""glossary"" id=""change_of_fiber"" style=""margin-top: 0.4em;""><dfn class=""glossary"">change of fiber</dfn></dt>"¬"
+"change of fiber"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Change_of_fiber"" title=""Change of fiber"">change of fiber</a> of a fibration <i>p</i> is a homotopy equivalence, up to homotopy, between the fibers of <i>p</i> induced by a path in the base.</dd>
 "
-"<dt class=""glossary"" id=""character_variety"" style=""margin-top: 0.4em;""><dfn class=""glossary"">character variety</dfn></dt>"¬"
+"character variety"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Character_variety"" title=""Character variety"">character variety</a><sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup> of a group π and an algebraic group <i>G</i> (e.g., a reductive complex Lie group) is the <a href=""https://en.wikipedia.org/wiki/Geometric_invariant_theory_quotient"" class=""mw-redirect"" title=""Geometric invariant theory quotient"">geometric invariant theory quotient</a> by <i>G</i>:
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle {\mathcal {X}}(\pi ,G)=\operatorname {Hom} (\pi ,G)/\!/G}"">
   <semantics>
@@ -552,7 +552,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7b5e9c75463d7a0d4767412910a6c90a704850b6"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:25.584ex; height:2.843ex;"" alt=""{\mathcal {X}}(\pi ,G)=\operatorname {Hom} (\pi ,G)/\!/G""/></span>.</dd></dl></dd></dl>
 "
-"<dt class=""glossary"" id=""characteristic_class"" style=""margin-top: 0.4em;""><dfn class=""glossary"">characteristic class</dfn></dt>"¬"
+"characteristic class"¬"
 <dd class=""glossary"">Let Vect(<i>X</i>) be the set of isomorphism classes of vector bundles on <i>X</i>. We can view <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X\mapsto \operatorname {Vect} (X)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -570,14 +570,14 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/8d9ea7816b7b9a06291c9dd254c3075d4f5d5c48"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:14.096ex; height:2.843ex;"" alt=""X\mapsto \operatorname {Vect} (X)""/></span> as a contravariant functor from <b>Top</b> to <b>Set</b> by sending a map ƒ:<i>X</i> → <i>Y</i> to the pullback ƒ<sup>*</sup> along it. Then a <a href=""https://en.wikipedia.org/wiki/Characteristic_class"" title=""Characteristic class"">characteristic class</a> is a <a href=""https://en.wikipedia.org/wiki/Natural_transformation"" title=""Natural transformation"">natural transformation</a> from Vect to the cohomology functor H<sup>*</sup>. Explicitly, to each vector bundle <i>E</i> we assign a cohomology class, say, <i>c</i>(<i>E</i>). The assignment is natural in the sense that ƒ<sup>*</sup>c(<i>E</i>) = c(ƒ<sup>*</sup><i>E</i>).</dd>
 "
-"<dt class=""glossary"" id=""chromatic_homotopy_theory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">chromatic homotopy theory</dfn></dt>"¬"
+"chromatic homotopy theory"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Chromatic_homotopy_theory"" title=""Chromatic homotopy theory"">chromatic homotopy theory</a>.</dd>
 "
-"<dt class=""glossary"" id=""class"" style=""margin-top: 0.4em;""><dfn class=""glossary"">class</dfn></dt>"¬"
+"class"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Chern_class"" title=""Chern class"">Chern class</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Stiefel%E2%80%93Whitney_class"" title=""Stiefel–Whitney class"">Stiefel–Whitney class</a>.</dd>
 "
-"<dt class=""glossary"" id=""classifying_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">classifying space</dfn></dt>"¬"
+"classifying space"¬"
 <dd class=""glossary"">Loosely speaking, a <a href=""https://en.wikipedia.org/wiki/Classifying_space"" title=""Classifying space"">classifying space</a> is a space representing some contravariant functor defined on the category of spaces; for example, <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle BU}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -626,14 +626,14 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ff52d8d148f8ee50dabbd769a733a81b58534d04"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:15.515ex; height:3.176ex;"" alt=""{\displaystyle X\mapsto \operatorname {Vect} ^{\mathbb {R} }(X)}""/></span> that sends a space to the set of isomorphism classes of real vector bundles on the space.</dd>
 "
-"<dt class=""glossary"" id=""clutching"" style=""margin-top: 0.4em;""><dfn class=""glossary"">clutching</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""cobar_spectral_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cobar spectral sequence</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""cobordism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cobordism</dfn></dt>"¬"
+"clutching"¬"TODO"
+"cobar spectral sequence"¬"TODO"
+"cobordism"¬"
 <dd class=""glossary"">1.&#160;&#160;See <a href=""https://en.wikipedia.org/wiki/Cobordism"" title=""Cobordism"">cobordism</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;A <a href=""https://en.wikipedia.org/wiki/Cobordism_ring"" title=""Cobordism ring"">cobordism ring</a> is a ring whose elements are cobordism classes.</dd>
 <dd class=""glossary"">3.&#160;&#160;See also <a href=""https://en.wikipedia.org/wiki/H-cobordism_theorem"" class=""mw-redirect"" title=""H-cobordism theorem"">h-cobordism theorem</a>, <a href=""https://en.wikipedia.org/wiki/S-cobordism_theorem"" class=""mw-redirect"" title=""S-cobordism theorem"">s-cobordism theorem</a>.</dd>
 "
-"<dt class=""glossary"" id=""coefficient_ring"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coefficient ring</dfn></dt>"¬"
+"coefficient ring"¬"
 <dd class=""glossary"">If <i>E</i> is a ring spectrum, then the coefficient ring of it is the ring <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{*}E}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -651,7 +651,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/eb803cab42e04100468a307ff73816bfa8d09143"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.293ex; margin-bottom: -0.379ex; width:4.155ex; height:2.509ex;"" alt=""\pi _{*}E""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""cofiber_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cofiber sequence</dfn></dt>"¬"
+"cofiber sequence"¬"
 <dd class=""glossary"">A cofiber sequence is any sequence that is equivalent to the sequence <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X{\overset {f}{\to }}Y\to C_{f}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -691,8 +691,8 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7765fc9102a19771111a01cd0b18c79e231029cf"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:2.798ex; height:2.843ex;"" alt=""C_{f}""/></span> is the reduced mapping cone of ƒ (called the cofiber of ƒ).</dd>
 "
-"<dt class=""glossary"" id=""cofibrant_approximation"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cofibrant approximation</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""cofibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cofibration</dfn></dt>"¬"
+"cofibrant approximation"¬"TODO"
+"cofibration"¬"
 <dd class=""glossary"">A map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle i:A\to B}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -808,11 +808,11 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/54025a7df8d081b28e4354d66031ef04e7515caf"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:10.196ex; height:2.509ex;"" alt=""h_{t}\circ i=g_{t}""/></span>.<sup id=""cite_ref-3"" class=""reference""><a href=""#cite_note-3"">&#91;3&#93;</a></sup> A cofibration is injective and is a homeomorphism onto its image.</dd>
 "
-"<dt class=""glossary"" id=""coherent_homotopy"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coherent homotopy</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""coherency"" style=""margin-top: 0.4em;""><dfn class=""glossary"">coherency</dfn></dt>"¬"
+"coherent homotopy"¬"TODO"
+"coherency"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Coherency_(homotopy_theory)"" title=""Coherency (homotopy theory)"">coherency (homotopy theory)</a></dd>
 "
-"<dt class=""glossary"" id=""cohomotopy_group"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cohomotopy group</dfn></dt>"¬"
+"cohomotopy group"¬"
 <dd class=""glossary"">For a based space <i>X</i>, the set of homotopy classes <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle [X,S^{n}]}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -833,13 +833,13 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f0f95d1cc69655e66d5fb0df6ac2885da9844686"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:7.048ex; height:2.843ex;"" alt=""{\displaystyle [X,S^{n}]}""/></span> is called the <i>n</i>-th <a href=""https://en.wikipedia.org/wiki/Cohomotopy_group"" title=""Cohomotopy group"">cohomotopy group</a> of <i>X</i>.</dd>
 "
-"<dt class=""glossary"" id=""cohomology_operation"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cohomology operation</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""completion"" style=""margin-top: 0.4em;""><dfn class=""glossary"">completion</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""complex_bordism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">complex bordism</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""complex-oriented"" style=""margin-top: 0.4em;""><dfn class=""glossary"">complex-oriented</dfn></dt>"¬"
+"cohomology operation"¬"TODO"
+"completion"¬"TODO"
+"complex bordism"¬"TODO"
+"complex-oriented"¬"
 <dd class=""glossary"">A multiplicative cohomology theory <i>E</i> is <a href=""https://en.wikipedia.org/wiki/Complex-oriented_cohomology_theory"" title=""Complex-oriented cohomology theory"">complex-oriented</a> if the restriction map <i>E</i><sup>2</sup>(<b>C</b><i>P</i><sup>∞</sup>) → <i>E</i><sup>2</sup>(<b>C</b><i>P</i><sup>1</sup>) is surjective.</dd>
 "
-"<dt class=""glossary"" id=""cone"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cone</dfn></dt>"¬"
+"cone"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Cone_(topology)"" title=""Cone (topology)"">cone</a> over a space <i>X</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle CX=X\times I/X\times \{0\}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -880,7 +880,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c4f8e0462b9439ec43c012a6c9503ac83c4407cf"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:7.097ex; height:2.509ex;"" alt=""X\wedge I_{+}""/></span> by collapsing the top.</dd>
 "
-"<dt class=""glossary"" id=""connective"" style=""margin-top: 0.4em;""><dfn class=""glossary"">connective</dfn></dt>"¬"
+"connective"¬"
 <dd class=""glossary"">A spectrum <i>E</i> is <a href=""https://en.wikipedia.org/wiki/Connective_spectrum"" title=""Connective spectrum"">connective</a> if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{q}E=0}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -900,8 +900,8 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ca84a9d0438b75f93902eeb015c2fbaa6d33e6f9"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:8.35ex; height:2.843ex;"" alt=""{\displaystyle \pi _{q}E=0}""/></span> for all negative integers <i>q</i>.</dd>
 "
-"<dt class=""glossary"" id=""configuration_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">configuration space</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""constant"" style=""margin-top: 0.4em;""><dfn class=""glossary"">constant</dfn></dt>"¬"
+"configuration space"¬"TODO"
+"constant"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Constant_sheaf"" title=""Constant sheaf"">constant sheaf</a> on a space <i>X</i> is a sheaf <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle {\mathcal {F}}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -964,13 +964,13 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d5a8ff098cbbb125e5b66864a00349027b66b104"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:17.531ex; height:2.843ex;"" alt=""{\displaystyle A\to {\mathcal {F}}(X)\to {\mathcal {F}}_{x}}""/></span> is bijective for any <i>x</i> in <i>X</i>.</dd>
 "
-"<dt class=""glossary"" id=""continuous"" style=""margin-top: 0.4em;""><dfn class=""glossary"">continuous</dfn></dt>"¬"
+"continuous"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Continuous_cohomology&amp;action=edit&amp;redlink=1"" class=""new"" title=""Continuous cohomology (page does not exist)"">Continuous cohomology</a>.</dd>
 "
-"<dt class=""glossary"" id=""contractible_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">contractible space</dfn></dt>"¬"
+"contractible space"¬"
 <dd class=""glossary"">A space is <a href=""https://en.wikipedia.org/wiki/Contractible_space"" title=""Contractible space"">contractible</a> if the identity map on the space is homotopic to the constant map.</dd>
 "
-"<dt class=""glossary"" id=""covering"" style=""margin-top: 0.4em;""><dfn class=""glossary"">covering</dfn></dt>"¬"
+"covering"¬"
 <dd class=""glossary"">1.&#160;&#160;A map <i>p</i>: <i>Y</i> → <i>X</i> is a <a href=""https://en.wikipedia.org/wiki/Covering_space"" title=""Covering space"">covering</a> or a covering map if each point of <i>x</i> has a neighborhood <i>N</i> that is <a href=""https://en.wikipedia.org/w/index.php?title=Evenly_covered&amp;action=edit&amp;redlink=1"" class=""new"" title=""Evenly covered (page does not exist)"">evenly covered</a> by <i>p</i>; this means that the pre-image of <i>N</i> is a disjoint union of open sets, each of which maps to <i>N</i> homeomorphically.</dd>
 <dd class=""glossary"">2.&#160;&#160;It is <i>n</i>-sheeted if each fiber <i>p</i><sup>−1</sup>(<i>x</i>) has exactly <i>n</i> elements.</dd>
 <dd class=""glossary"">3.&#160;&#160;It is <a href=""https://en.wikipedia.org/wiki/Universal_covering"" class=""mw-redirect"" title=""Universal covering"">universal</a> if <i>Y</i> is simply connected.</dd>
@@ -1052,8 +1052,8 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/91af70b9a194cdf39ca8575a4e640b633cef7e73"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:31.644ex; height:3.176ex;"" alt=""\operatorname {Hom} (\pi _{1}(X,x_{0}),G)=\operatorname {H} ^{1}(X;G)""/></span> (cf. <a href=""https://en.wikipedia.org/wiki/Nonabelian_cohomology"" title=""Nonabelian cohomology"">nonabelian cohomology</a>.)</dd></dl></dd>
 "
-"<dt class=""glossary"" id=""cup_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cup product</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""cw_complex"" style=""margin-top: 0.4em;""><dfn class=""glossary"">CW complex</dfn></dt>"¬"
+"cup product"¬"TODO"
+"CW complex"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/CW_complex"" title=""CW complex"">CW complex</a> is a space <i>X</i> equipped with a CW structure; i.e., a filtration
 <dl><dd><dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X^{0}\subset X^{1}\subset X^{2}\subset \cdots \subset X}"">
   <semantics>
@@ -1090,21 +1090,21 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/9bd95270c758f9bcdd4b3351e4c48c54461b3746"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:26.25ex; height:2.676ex;"" alt=""X^{0}\subset X^{1}\subset X^{2}\subset \cdots \subset X""/></span></dd></dl></dd>
 <dd>such that (1) <i>X</i><sup>0</sup> is discrete and (2) <i>X</i><sup><i>n</i></sup> is obtained from <i>X</i><sup><i>n</i>-1</sup> by attaching <i>n</i>-cells.</dd></dl></dd>
 "
-"<dt class=""glossary"" id=""cyclic_homology"" style=""margin-top: 0.4em;""><dfn class=""glossary"">cyclic homology</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""deck_transformation"" style=""margin-top: 0.4em;""><dfn class=""glossary"">deck transformation</dfn></dt>"¬"
+"cyclic homology"¬"TODO"
+"deck transformation"¬"
 <dd class=""glossary"">Another term for an automorphism of a covering.</dd>
 "
-"<dt class=""glossary"" id=""deligne–beilinson_cohomology"" style=""margin-top: 0.4em;""><dfn class=""glossary""> Deligne–Beilinson cohomology</dfn></dt>"¬"
+" Deligne–Beilinson cohomology"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Deligne%E2%80%93Beilinson_cohomology&amp;action=edit&amp;redlink=1"" class=""new"" title=""Deligne–Beilinson cohomology (page does not exist)"">Deligne–Beilinson cohomology</a></dd>
 "
-"<dt class=""glossary"" id=""delooping"" style=""margin-top: 0.4em;""><dfn class=""glossary"">delooping</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""degeneracy_cycle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">degeneracy cycle</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""degree"" style=""margin-top: 0.4em;""><dfn class=""glossary"">degree</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""eckmann–hilton_argument"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Eckmann–Hilton argument</dfn></dt>"¬"
+"delooping"¬"TODO"
+"degeneracy cycle"¬"TODO"
+"degree"¬"TODO"
+"Eckmann–Hilton argument"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Eckmann%E2%80%93Hilton_argument"" title=""Eckmann–Hilton argument"">Eckmann–Hilton argument</a>.</dd>
 "
-"<dt class=""glossary"" id=""eckmann–hilton_duality"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Eckmann–Hilton duality</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""eilenberg–maclane_spaces"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Eilenberg–MacLane spaces</dfn></dt>"¬"
+"Eckmann–Hilton duality"¬"TODO"
+"Eilenberg–MacLane spaces"¬"
 <dd class=""glossary"">Given an abelian group π, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_spaces"" class=""mw-redirect"" title=""Eilenberg–MacLane spaces"">Eilenberg–MacLane spaces</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle K(\pi ,n)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1174,15 +1174,15 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0d7235b2e70369fecfe987530ec69d7c46c0aef4"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -2.505ex; width:28.774ex; height:6.176ex;"" alt=""\pi _{q}K(\pi ,n)={\begin{cases}\pi &amp;{\text{if }}q=n\\0&amp;{\text{otherwise}}\end{cases}}""/></span>.</dd></dl></dd></dl>
 "
-"<dt class=""glossary"" id=""eilenberg–steenrod_axioms"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Eilenberg–Steenrod axioms</dfn></dt>"¬"
+"Eilenberg–Steenrod axioms"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steenrod_axioms"" title=""Eilenberg–Steenrod axioms"">Eilenberg–Steenrod axioms</a> are the set of axioms that any cohomology theory (singular, cellular, etc.) must satisfy. Weakening the axioms (namely dropping the dimension axiom) leads to a <a href=""https://en.wikipedia.org/wiki/Generalized_cohomology_theory"" class=""mw-redirect"" title=""Generalized cohomology theory"">generalized cohomology theory</a>.</dd>
 "
-"<dt class=""glossary"" id=""eilenberg–zilber_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Eilenberg–Zilber theorem</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""e_n-algebra"" style=""margin-top: 0.4em;""><dfn class=""glossary"">E<sub><i>n</i></sub>-algebra</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""equivariant_algebraic_topology"" style=""margin-top: 0.4em;""><dfn class=""glossary"">equivariant algebraic topology</dfn></dt>"¬"
+"Eilenberg–Zilber theorem"¬"TODO"
+"E<sub><i>n</i></sub>-algebra"¬"TODO"
+"equivariant algebraic topology"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Equivariant_algebraic_topoloy"" class=""mw-redirect"" title=""Equivariant algebraic topoloy"">Equivariant algebraic topoloy</a> is the study of spaces with <a href=""https://en.wikipedia.org/wiki/Continuous_group_action"" title=""Continuous group action"">(continuous) group action</a>.</dd>
 "
-"<dt class=""glossary"" id=""exact"" style=""margin-top: 0.4em;""><dfn class=""glossary"">exact</dfn></dt>"¬"
+"exact"¬"
 <dd class=""glossary"">A sequence of pointed sets <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X{\overset {f}{\to }}Y{\overset {g}{\to }}Z}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1208,7 +1208,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b730b06aa863adf1bce4ec66bb0ed18d3590b896"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:10.081ex; height:3.843ex;"" alt=""X{\overset {f}{\to }}Y{\overset {g}{\to }}Z""/></span> is <a href=""https://en.wikipedia.org/wiki/Exact_sequence"" title=""Exact sequence"">exact</a> if the image of <i>f</i> coincides with the pre-image of the chosen point of <i>Z</i>.</dd>
 "
-"<dt class=""glossary"" id=""excision"" style=""margin-top: 0.4em;""><dfn class=""glossary"">excision</dfn></dt>"¬"
+"excision"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Excision_theorem"" title=""Excision theorem"">excision</a> axiom for homology says: if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle U\subset X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1281,12 +1281,12 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/80b71acd1f247e3448b3f1b5b18f40764433e135"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:31.456ex; height:3.009ex;"" alt=""\operatorname {H} _{q}(X-U,A-U)\to \operatorname {H} _{q}(X,A)""/></span></dd></dl></dd>
 <dd>is an isomorphism.</dd></dl></dd>
 "
-"<dt class=""glossary"" id=""excisive_pair/triad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">excisive pair/triad</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""factorization_homology"" style=""margin-top: 0.4em;""><dfn class=""glossary"">factorization homology</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""fiber-homotopy_equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fiber-homotopy equivalence</dfn></dt>"¬"
+"excisive pair/triad"¬"TODO"
+"factorization homology"¬"TODO"
+"fiber-homotopy equivalence"¬"
 <dd class=""glossary"">Given <i>D</i>→<i>B</i>, <i>E</i>→<i>B</i>, a map ƒ:<i>D</i>→<i>E</i> over <i>B</i> is a <a href=""https://en.wikipedia.org/wiki/Fiber-homotopy_equivalence"" title=""Fiber-homotopy equivalence"">fiber-homotopy equivalence</a> if it is invertible up to homotopy over <i>B</i>. The basic fact is that if <i>D</i>→<i>B</i>, <i>E</i>→<i>B</i> are fibrations, then a homotopy equivalence from <i>D</i> to <i>E</i> is a fiber-homotopy equivalence.</dd>
 "
-"<dt class=""glossary"" id=""fibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fibration</dfn></dt>"¬"
+"fibration"¬"
 <dd class=""glossary"">A map <i>p</i>:<i>E</i> → <i>B</i> is a <a href=""https://en.wikipedia.org/wiki/Fibration"" title=""Fibration"">fibration</a> if for any given homotopy <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle g_{t}:X\to B}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1389,7 +1389,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/af02e5c5bc01896a68b31a30a1e4ebbde6701cf2"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; margin-left: -0.089ex; width:10.652ex; height:2.509ex;"" alt=""p\circ h_{t}=g_{t}""/></span>. (The above property is called the <a href=""https://en.wikipedia.org/wiki/Homotopy_lifting_property"" title=""Homotopy lifting property"">homotopy lifting property</a>.) A covering map is a basic example of a fibration.</dd>
 "
-"<dt class=""glossary"" id=""fibration_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fibration sequence</dfn></dt>"¬"
+"fibration sequence"¬"
 <dd class=""glossary"">One says <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle F\to X{\overset {p}{\to }}B}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1410,9 +1410,9 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/8a8b2ddf2aad99d0bcb620534ecd00b5e6d2b459"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:11.423ex; height:3.343ex;"" alt=""{\displaystyle F\to X{\overset {p}{\to }}B}""/></span> is a fibration sequence to mean that <i>p</i> is a fibration and that <i>F</i> is homotopy equivalent to the homotopy fiber of <i>p</i>, with some understanding of base points.</dd>
 "
-"<dt class=""glossary"" id=""finitely_dominated"" style=""margin-top: 0.4em;""><dfn class=""glossary"">finitely dominated</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""fundamental_class"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fundamental class</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""fundamental_group"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fundamental group</dfn></dt>"¬"
+"finitely dominated"¬"TODO"
+"fundamental class"¬"TODO"
+"fundamental group"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Fundamental_group"" title=""Fundamental group"">fundamental group</a> of a space <i>X</i> with base point <i>x</i><sub>0</sub> is the group of homotopy classes of loops at <i>x</i><sub>0</sub>. It is precisely the first homotopy group of (<i>X</i>, <i>x</i><sub>0</sub>) and is thus denoted by <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{1}(X,x_{0})}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1439,7 +1439,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c04f460bab6f580276cedce44809d2e466df4cbb"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:9.586ex; height:2.843ex;"" alt=""\pi _{1}(X,x_{0})""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""fundamental_groupoid"" style=""margin-top: 0.4em;""><dfn class=""glossary"">fundamental groupoid</dfn></dt>"¬"
+"fundamental groupoid"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Fundamental_groupoid"" title=""Fundamental groupoid"">fundamental groupoid</a> of a space <i>X</i> is the category whose objects are the points of <i>X</i> and whose morphisms <i>x</i> → <i>y</i> are the homotopy classes of paths from <i>x</i> to <i>y</i>; thus, the set of all morphisms from an object <i>x</i><sub>0</sub> to itself is, by definition, the fundament group <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{1}(X,x_{0})}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1466,7 +1466,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c04f460bab6f580276cedce44809d2e466df4cbb"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:9.586ex; height:2.843ex;"" alt=""\pi _{1}(X,x_{0})""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""free"" style=""margin-top: 0.4em;""><dfn class=""glossary"">free</dfn></dt>"¬"
+"free"¬"
 <dd class=""glossary"">Synonymous with unbased. For example, the <a href=""https://en.wikipedia.org/wiki/Free_path_space"" class=""mw-redirect"" title=""Free path space"">free path space</a> of a space <i>X</i> refers to the space of all maps from <i>I</i> to <i>X</i>; i.e., <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X^{I}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1483,7 +1483,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d809f4750bda07370f5d4724ac0f9429ceb58aa8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.058ex; height:2.676ex;"" alt=""{\displaystyle X^{I}}""/></span> while the path space of a based space <i>X</i> consists of such map that preserve the base point (i.e., 0 goes to the base point of <i>X</i>).</dd>
 "
-"<dt class=""glossary"" id=""freudenthal_suspension_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Freudenthal suspension theorem</dfn></dt>"¬"
+"Freudenthal suspension theorem"¬"
 <dd class=""glossary"">For a nondegenerately based space <i>X</i>, the <a href=""https://en.wikipedia.org/wiki/Freudenthal_suspension_theorem"" title=""Freudenthal suspension theorem"">Freudenthal suspension theorem</a> says: if <i>X</i> is (<i>n</i>-1)-connected, then the suspension homomorphism
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{q}X\to \pi _{q+1}\Sigma X}"">
   <semantics>
@@ -1513,19 +1513,19 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/dad135ba6f218b869d8a1df287ef88f5c9ae0da7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:15.98ex; height:2.843ex;"" alt=""{\displaystyle \pi _{q}X\to \pi _{q+1}\Sigma X}""/></span></dd></dl>
 "is bijective for <i>q</i> &lt; 2<i>n</i> - 1 and is surjective if <i>q</i> = 2<i>n</i> - 1.</dd>
-"<dt class=""glossary"" id=""g-fibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">G-fibration</dfn></dt>"¬"
+"G-fibration"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/G-fibration"" title=""G-fibration"">G-fibration</a> with some <a href=""https://en.wikipedia.org/wiki/Topological_monoid"" title=""Topological monoid"">topological monoid</a> <i>G</i>. An example is <a href=""https://en.wikipedia.org/wiki/Moore%27s_path_space_fibration"" class=""mw-redirect"" title=""Moore&#39;s path space fibration"">Moore's path space fibration</a>.</dd>
 "
-"<dt class=""glossary"" id=""γ-space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Γ-space</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""generalized_cohomology_theory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">generalized cohomology theory</dfn></dt>"¬"
+"Γ-space"¬"TODO"
+"generalized cohomology theory"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Generalized_cohomology_theory"" class=""mw-redirect"" title=""Generalized cohomology theory"">generalized cohomology theory</a> is a contravariant functor from the category of pairs of spaces to the category of abelian groups that satisfies all of the Eilenberg–Steenrod axioms except the dimension axiom.</dd>
 "
-"<dt class=""glossary"" id=""geometrization_conjecture"" style=""margin-top: 0.4em;""><dfn class=""glossary"">geometrization conjecture</dfn></dt>"¬"
+"geometrization conjecture"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Geometrization_conjecture"" title=""Geometrization conjecture"">geometrization conjecture</a></dd>
 "
-"<dt class=""glossary"" id=""genus"" style=""margin-top: 0.4em;""><dfn class=""glossary"">genus</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""group_completion"" style=""margin-top: 0.4em;""><dfn class=""glossary"">group completion</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""grouplike"" style=""margin-top: 0.4em;""><dfn class=""glossary"">grouplike</dfn></dt>"¬"
+"genus"¬"TODO"
+"group completion"¬"TODO"
+"grouplike"¬"
 <dd class=""glossary"">An H-space <i>X</i> is said to be <b>group-like</b> or <b>grouplike</b> if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{0}X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1543,34 +1543,34 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/20676791fe5303f461e0c23f2eb5c8acd8740635"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:4.359ex; height:2.509ex;"" alt=""\pi _{0}X""/></span> is a <a href=""https://en.wikipedia.org/wiki/Group_(mathematics)"" title=""Group (mathematics)"">group</a>; i.e., <i>X</i> satisfies the group axioms up to homotopy.</dd>
 "
-"<dt class=""glossary"" id=""gysin_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Gysin sequence</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""h-cobordism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">h-cobordism</dfn></dt>"¬"
+"Gysin sequence"¬"TODO"
+"h-cobordism"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/H-cobordism"" title=""H-cobordism"">h-cobordism</a>.</dd>
 "
-"<dt class=""glossary"" id=""hilton–milnor_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Hilton–Milnor theorem</dfn></dt>"¬"
+"Hilton–Milnor theorem"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Hilton%E2%80%93Milnor_theorem"" class=""mw-redirect"" title=""Hilton–Milnor theorem"">Hilton–Milnor theorem</a>.</dd>
 "
-"<dt class=""glossary"" id=""h-space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">H-space</dfn></dt>"¬"
+"H-space"¬"
 <dd class=""glossary"">An <a href=""https://en.wikipedia.org/wiki/H-space"" title=""H-space"">H-space</a> is a based space that is a <a href=""https://en.wikipedia.org/wiki/Unital_magma"" class=""mw-redirect"" title=""Unital magma"">unital magma</a> up to homotopy.</dd>
 "
-"<dt class=""glossary"" id=""homologus"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homologus</dfn></dt>"¬"
+"homologus"¬"
 <dd class=""glossary"">Two cycles are homologus if they belong to the same homology class.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy category</dfn></dt>"¬"
+"homotopy category"¬"
 <dd class=""glossary"">Let <i>C</i> be a subcategory of the category of all spaces. Then the <a href=""https://en.wikipedia.org/wiki/Homotopy_category"" title=""Homotopy category"">homotopy category</a> of <i>C</i> is the category whose class of objects is the same as the class of objects of <i>C</i> but the set of morphisms from an object <i>x</i> to an object <i>y</i> is the set of the homotopy classes of morphisms from <i>x</i> to <i>y</i> in <i>C</i>. For example, a map is a homotopy equivalence if and only if it is an isomorphism in the homotopy category.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_colimit"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy colimit</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""homotopy_over_a_space_&#39;&#39;b&#39;&#39;"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy over a space <i>B</i></dfn></dt>"¬"
+"homotopy colimit"¬"TODO"
+"homotopy over a space <i>B</i"¬"
 <dd class=""glossary"">A homotopy <i>h</i><sub><i>t</i></sub> such that for each fixed <i>t</i>, <i>h</i><sub><i>t</i></sub> is a map over <i>B</i>.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy equivalence</dfn></dt>"¬"
+"homotopy equivalence"¬"
 <dd class=""glossary"">1.&#160;&#160;A map ƒ:<i>X</i>→<i>Y</i> is a <a href=""https://en.wikipedia.org/wiki/Homotopy_equivalence"" class=""mw-redirect"" title=""Homotopy equivalence"">homotopy equivalence</a> if it is invertible up to homotopy; that is, there exists a map g: <i>Y</i>→<i>X</i> such that <i>g</i> ∘ ƒ is homotopic to th identity map on <i>X</i> and ƒ ∘ <i>g</i> is homotopic to the identity map on <i>Y</i>.</dd>
 <dd class=""glossary"">2.&#160;&#160;Two spaces are said to be homotopy equivalent if there is a homotopy equivalence between the two. For example, by definition, a space is contractible if it is homotopy equivalent to a <a href=""https://en.wikipedia.org/w/index.php?title=Point_space&amp;action=edit&amp;redlink=1"" class=""new"" title=""Point space (page does not exist)"">point space</a>.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_excision_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy excision theorem</dfn></dt>"¬"
+"homotopy excision theorem"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Homotopy_excision_theorem"" title=""Homotopy excision theorem"">homotopy excision theorem</a> is a substitute for the failure of excision for homotopy groups.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_fiber"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy fiber</dfn></dt>"¬"
+"homotopy fiber"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Homotopy_fiber"" title=""Homotopy fiber"">homotopy fiber</a> of a based map ƒ:<i>X</i>→<i>Y</i>, denoted by <i>F</i>ƒ, is the pullback of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle PY\to Y,\,\chi \mapsto \chi (1)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1593,10 +1593,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/efc7f7c994a5dcb03f660a463953398b82e8def3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:19.823ex; height:2.843ex;"" alt=""PY\to Y,\,\chi \mapsto \chi (1)""/></span> along <i>f</i>.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_fiber_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy fiber product</dfn></dt>"¬"
+"homotopy fiber product"¬"
 <dd class=""glossary"">A fiber product is a particular kind of a <a href=""https://en.wikipedia.org/wiki/Limit_(category_theory)"" title=""Limit (category theory)"">limit</a>. Replacing this limit lim with a <a href=""https://en.wikipedia.org/wiki/Homotopy_limit"" class=""mw-redirect"" title=""Homotopy limit"">homotopy limit</a> holim yields a <a href=""https://en.wikipedia.org/w/index.php?title=Homotopy_fiber_product&amp;action=edit&amp;redlink=1"" class=""new"" title=""Homotopy fiber product (page does not exist)"">homotopy fiber product</a>.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_group"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy group</dfn></dt>"¬"
+"homotopy group"¬"
 <dd class=""glossary"">1.&#160;&#160;For a based space <i>X</i>, let <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{n}X=[S^{n},X]}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1840,7 +1840,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/da2815bb8b0ba0ff194d9b2766d91da5522e3523"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -3.505ex; width:20.794ex; height:5.509ex;"" alt=""{\displaystyle \pi _{k}^{s}X=\varinjlim _{n}\pi _{k+n}\Sigma ^{n}X}""/></span>. In other words, it is the <i>k</i>-th homotopy group of the suspension spectrum of <i>X</i>.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_quotient"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy quotient</dfn></dt>"¬"
+"homotopy quotient"¬"
 <dd class=""glossary"">If <i>G</i> is a <a href=""https://en.wikipedia.org/wiki/Lie_group"" title=""Lie group"">Lie group</a> acting on a manifold <i>X</i>, then the quotient space <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle (EG\times X)/G}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1861,26 +1861,26 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c8cdfe65164d59b470b2e6653c84030f3bf20578"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:13.221ex; height:2.843ex;"" alt=""(EG\times X)/G""/></span> is called the <a href=""https://en.wikipedia.org/wiki/Homotopy_quotient"" class=""mw-redirect"" title=""Homotopy quotient"">homotopy quotient</a> (or Borel construction) of <i>X</i> by <i>G</i>, where <i>EG</i> is the universal bundle of <i>G</i>.</dd>
 "
-"<dt class=""glossary"" id=""homotopy_spectral_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy spectral sequence</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""homotopy_sphere"" style=""margin-top: 0.4em;""><dfn class=""glossary"">homotopy sphere</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""hopf"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Hopf</dfn></dt>"¬"
+"homotopy spectral sequence"¬"TODO"
+"homotopy sphere"¬"TODO"
+"Hopf"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Heinz_Hopf"" title=""Heinz Hopf"">Heinz Hopf</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Hopf_invariant"" title=""Hopf invariant"">Hopf invariant</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Hopf_index_theorem"" class=""mw-redirect"" title=""Hopf index theorem"">Hopf index theorem</a>.</dd>
 <dd class=""glossary"">4.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Hopf_construction"" title=""Hopf construction"">Hopf construction</a>.</dd>
 "
-"<dt class=""glossary"" id=""hurewicz"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Hurewicz</dfn></dt>"¬"
+"Hurewicz"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Hurewicz_theorem"" title=""Hurewicz theorem"">Hurewicz theorem</a> establishes a relationship between homotopy groups and homology groups.</dd>
 "
-"<dt class=""glossary"" id=""infinite_loop_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">infinite loop space</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""infinite_loop_space_machine"" style=""margin-top: 0.4em;""><dfn class=""glossary"">infinite loop space machine</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""infinite_mapping_telescope"" style=""margin-top: 0.4em;""><dfn class=""glossary"">infinite mapping telescope</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""integration_along_the_fiber"" style=""margin-top: 0.4em;""><dfn class=""glossary"">integration along the fiber</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""isotopy"" style=""margin-top: 0.4em;""><dfn class=""glossary"">isotopy</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""j-homomorphism"" style=""margin-top: 0.4em;""><dfn class=""glossary"">J-homomorphism</dfn></dt>"¬"
+"infinite loop space"¬"TODO"
+"infinite loop space machine"¬"TODO"
+"infinite mapping telescope"¬"TODO"
+"integration along the fiber"¬"TODO"
+"isotopy"¬"TODO"
+"J-homomorphism"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/J-homomorphism"" title=""J-homomorphism"">J-homomorphism</a>.</dd>
 "
-"<dt class=""glossary"" id=""join"" style=""margin-top: 0.4em;""><dfn class=""glossary"">join</dfn></dt>"¬"
+"join"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Join_(topology)"" title=""Join (topology)"">join</a> of based spaces <i>X</i>, <i>Y</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X\star Y=\Sigma (X\wedge Y).}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -1902,21 +1902,21 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f97f1a6e7310e0635d6bc818b1be9369ce2f9e8c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:19.517ex; height:2.843ex;"" alt=""X\star Y=\Sigma (X\wedge Y).""/></span></dd>
 "
-"<dt class=""glossary"" id=""&#39;&#39;k&#39;&#39;-invariant"" style=""margin-top: 0.4em;""><dfn class=""glossary""><i>k</i>-invariant</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""kan_complex"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Kan complex</dfn></dt>"¬"
+"<i>k</i>-invariant"¬"TODO"
+"Kan complex"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Kan_complex"" class=""mw-redirect"" title=""Kan complex"">Kan complex</a>.</dd>
 "
-"<dt class=""glossary"" id=""kervaire_invariant"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Kervaire invariant</dfn></dt>"¬"
+"Kervaire invariant"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Kervaire_invariant"" title=""Kervaire invariant"">Kervaire invariant</a>.</dd>
 "
-"<dt class=""glossary"" id=""koszul_duality"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Koszul duality</dfn></dt>"¬"
+"Koszul duality"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Koszul_duality"" title=""Koszul duality"">Koszul duality</a>.</dd>
 "
-"<dt class=""glossary"" id=""künneth_formula"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Künneth formula</dfn></dt>"¬"TODO"
-<dt class=""glossary"" id=""lazard_ring"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Lazard ring</dfn></dt>"¬"
+"Künneth formula"¬"TODO"
+<Lazard ring"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Lazard_ring"" class=""mw-redirect"" title=""Lazard ring"">Lazard ring</a> <i>L</i> is the (huge) commutative ring together with the <a href=""https://en.wikipedia.org/wiki/Formal_group_law"" title=""Formal group law"">formal group law</a> ƒ that is universal among all the formal group laws in the sense that any formal group law <i>g</i> over a commutative ring <i>R</i> is obtained via a ring homomorphism <i>L</i> → <i>R</i> mapping ƒ to <i>g</i>. According to Quillen's theorem, it is also the coefficient ring of the <a href=""https://en.wikipedia.org/wiki/Complex_bordism"" class=""mw-redirect"" title=""Complex bordism"">complex bordism</a> MU. The <a href=""https://en.wikipedia.org/wiki/Spectrum_of_a_ring"" title=""Spectrum of a ring"">Spec</a> of <i>L</i> is called the <a href=""https://en.wikipedia.org/wiki/Moduli_space_of_formal_group_laws"" class=""mw-redirect"" title=""Moduli space of formal group laws"">moduli space of formal group laws</a>.</dd>
 "
-"<dt class=""glossary"" id=""lefschetz_fixed_point_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Lefschetz fixed point theorem</dfn></dt>"¬"
+"Lefschetz fixed point theorem"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Lefschetz_fixed_point_theorem"" class=""mw-redirect"" title=""Lefschetz fixed point theorem"">Lefschetz fixed point theorem</a> says: given a finite simplicial complex <i>K</i> and its geometric realization <i>X</i>, if a map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f:X\to X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2015,7 +2015,7 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fe2435e711c75b153e3e4695b61eb469f198af0d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:13.115ex; height:2.676ex;"" alt=""f:D^{n}\to D^{n}""/></span> is, as higher homologies vanish, one.</dd>
 "
-"<dt class=""glossary"" id=""lens_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">lens space</dfn></dt>"¬"
+"lens space"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Lens_space"" title=""Lens space"">lens space</a> is the quotient space <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \{z\in \mathbb {C} ^{n}||z|=1\}/\mu _{p}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2120,8 +2120,8 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c57d58c96777c58b3042f8cfde9221b1d6a58b52"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:30.908ex; height:2.843ex;"" alt=""\zeta \cdot (z_{1},\dots ,z_{n})=(\zeta z_{1},\dots ,\zeta z_{n})""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""leray_spectral_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Leray spectral sequence</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""local_coefficient"" style=""margin-top: 0.4em;""><dfn class=""glossary"">local coefficient</dfn></dt>"¬"
+"Leray spectral sequence"¬"TODO"
+"local coefficient"¬"
 <dd class=""glossary"">1.&#160;&#160;A module over the <a href=""https://en.wikipedia.org/wiki/Group_ring"" title=""Group ring"">group ring</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbb {Z} [\pi _{1}B]}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2211,14 +2211,14 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/764fed4857f88d2dcdf8533ee48f348252d7339a"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:9.596ex; height:3.343ex;"" alt=""{\widetilde {B}}\times _{\pi _{1}B}A""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""local_sphere"" style=""margin-top: 0.4em;""><dfn class=""glossary"">local sphere</dfn></dt>"¬"
+"local sphere"¬"
 <dd class=""glossary"">The localization of a sphere at some prime number</dd>
 "
-"<dt class=""glossary"" id=""localization"" style=""margin-top: 0.4em;""><dfn class=""glossary"">localization</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""locally_constant_sheaf"" style=""margin-top: 0.4em;""><dfn class=""glossary"">locally constant sheaf</dfn></dt>"¬"
+"localization"¬"TODO"
+"locally constant sheaf"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Locally_constant_sheaf"" title=""Locally constant sheaf"">locally constant sheaf</a> on a space <i>X</i> is a sheaf such that each point of <i>X</i> has an open neighborhood on which the sheaf is <a href=""https://en.wikipedia.org/wiki/Constant_sheaf"" title=""Constant sheaf"">constant</a>.</dd>
 "
-"<dt class=""glossary"" id=""loop_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">loop space</dfn></dt>"¬"
+"loop space"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Loop_space"" title=""Loop space"">loop space</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Omega X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2231,8 +2231,8 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b372331db039fbac1df6fa94dbc87af06a95cfa7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.658ex; height:2.176ex;"" alt=""\Omega X""/></span> of a based space <i>X</i> is the space of all loops starting and ending at the base point of <i>X</i>.</dd>
 "
-"<dt class=""glossary"" id=""madsen–weiss_theorem"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Madsen–Weiss theorem</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""mapping"" style=""margin-top: 0.4em;""><dfn class=""glossary"">mapping</dfn></dt>"¬"
+"Madsen–Weiss theorem"¬"TODO"
+"mapping"¬"
 <dd class=""glossary"">1.&#160;&#160;<div class=""thumb tright""><div class=""thumbinner"" style=""width:222px;""><a href=""https://en.wikipedia.org/wiki/File:Mapping_cone.PNG"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mapping_cone.PNG/220px-Mapping_cone.PNG"" decoding=""async"" width=""220"" height=""226"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/2/2b/Mapping_cone.PNG 1.5x"" data-file-width=""305"" data-file-height=""314"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Mapping_cone.PNG"" class=""internal"" title=""Enlarge""></a></div>The mapping cone of a map ƒ:<i>X</i>→<i>Y</i> is obtained by gluing the cone over <i>X</i> to <i>Y</i>.</div></div></div>The <a href=""https://en.wikipedia.org/wiki/Mapping_cone_(topology)"" title=""Mapping cone (topology)"">mapping cone</a> (or cofiber) of a map ƒ:<i>X</i>→<i>Y</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle C_{f}=Y\cup _{f}CX}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2336,18 +2336,18 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/9870a75924d3ea13db921f2f3be046480bb6c038"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:8.203ex; height:2.676ex;"" alt=""{\displaystyle B^{I}\to B}""/></span> along <i>p</i>. If <i>p</i> is fibration, then the natural map <i>E</i>→<i>P</i><sub><i>p</i></sub> is a <a href=""https://en.wikipedia.org/wiki/Fiber-homotopy_equivalence"" title=""Fiber-homotopy equivalence"">fiber-homotopy equivalence</a>; thus, roughly speaking, one can replace <i>E</i> by the mapping path space without changing the homotopy type of the fiber.</dd>
 "
-"<dt class=""glossary"" id=""mayer–vietoris_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Mayer–Vietoris sequence</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""model_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">model category</dfn></dt>"¬"
+"Mayer–Vietoris sequence"¬"TODO"
+"model category"¬"
 <dd class=""glossary"">A presentation of an <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-category"" class=""mw-redirect"" title=""∞-category"">∞-category</a>.<sup id=""cite_ref-4"" class=""reference""><a href=""#cite_note-4"">&#91;4&#93;</a></sup> See also <a href=""https://en.wikipedia.org/wiki/Model_category"" title=""Model category"">model category</a>.</dd>
 "
-"<dt class=""glossary"" id=""moore_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Moore space</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""multiplicative"" style=""margin-top: 0.4em;""><dfn class=""glossary"">multiplicative</dfn></dt>"¬"
+"Moore space"¬"TODO"
+"multiplicative"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Generalized_cohomology_theory"" class=""mw-redirect"" title=""Generalized cohomology theory"">generalized cohomology theory</a> <i>E</i> is multiplicative if <i>E</i><sup>*</sup>(<i>X</i>) is a <a href=""https://en.wikipedia.org/wiki/Graded_ring"" title=""Graded ring"">graded ring</a>. For example, the ordinary cohomology theory and the complex <i>K</i>-theory are multiplicative (in fact, cohomology theories defined by <a href=""https://en.wikipedia.org/wiki/E-infinity_ring"" class=""mw-redirect"" title=""E-infinity ring""><b>E</b><sub>∞</sub>-rings</a> are multiplicative.)</dd>
 "
-"<dt class=""glossary"" id=""&#39;&#39;n&#39;&#39;-cell"" style=""margin-top: 0.4em;""><dfn class=""glossary""><i>n</i>-cell</dfn></dt>"¬"
+"<i>n</i>-cell"¬"
 <dd class=""glossary"">Another term for an <i>n</i>-disk.</dd>
 "
-"<dt class=""glossary"" id=""&#39;&#39;n&#39;&#39;-connected"" style=""margin-top: 0.4em;""><dfn class=""glossary""><i>n</i>-connected</dfn></dt>"¬"
+"<i>n</i>-connected"¬"
 <dd class=""glossary"">A based space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/N-connected"" class=""mw-redirect"" title=""N-connected""><i>n</i>-connected</a> if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{q}X=0}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2367,8 +2367,8 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/385546f74f444e0258a9a7ba67eaa26aa932718c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:8.555ex; height:2.843ex;"" alt=""{\displaystyle \pi _{q}X=0}""/></span> for all integers <i>q</i> ≤ <i>n</i>. For example, ""1-connected"" is the same thing as ""<a href=""https://en.wikipedia.org/wiki/Simply_connected"" class=""mw-redirect"" title=""Simply connected"">simply connected</a>"".</dd>
 "
-"<dt class=""glossary"" id=""&#39;&#39;n&#39;&#39;-equivalent"" style=""margin-top: 0.4em;""><dfn class=""glossary""><i>n</i>-equivalent</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""ndr-pair"" style=""margin-top: 0.4em;""><dfn class=""glossary"">NDR-pair</dfn></dt>"¬"
+"<i>n</i>-equivalent"¬"TODO"
+"NDR-pair"¬"
 <dd class=""glossary"">A pair of spaces <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle A\subset X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2536,15 +2536,15 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
     <annotation encoding=""application/x-tex"">{\displaystyle A\hookrightarrow X}</annotation>
   </semantics>
 "</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/cc4d3ceb04befa8bc438185a12f8cb89bad90e70"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:7.63ex; height:2.176ex;"" alt=""A\hookrightarrow X""/></span> is a <a href=""https://en.wikipedia.org/wiki/Cofibration"" title=""Cofibration"">cofibration</a>.<p class=""mw-empty-elt""></p></dd>
-"<dt class=""glossary"" id=""nilpotent"" style=""margin-top: 0.4em;""><dfn class=""glossary"">nilpotent</dfn></dt>"¬"
+"nilpotent"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Nilpotent_space"" title=""Nilpotent space"">nilpotent space</a>; for example, a simply connected space is nilpotent.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/w/index.php?title=Nilpotent_theorem&amp;action=edit&amp;redlink=1"" class=""new"" title=""Nilpotent theorem (page does not exist)"">nilpotent theorem</a>.</dd>
 "
-"<dt class=""glossary"" id=""nonabelian"" style=""margin-top: 0.4em;""><dfn class=""glossary"">nonabelian</dfn></dt>"¬"
+"nonabelian"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Nonabelian_cohomology"" title=""Nonabelian cohomology"">nonabelian cohomology</a></dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Nonabelian_algebraic_topology"" title=""Nonabelian algebraic topology"">nonabelian algebraic topology</a></dd>
 "
-"<dt class=""glossary"" id=""normalized"" style=""margin-top: 0.4em;""><dfn class=""glossary"">normalized</dfn></dt>"¬"
+"normalized"¬"
 <dd class=""glossary"">Given a <a href=""https://en.wikipedia.org/wiki/Simplicial_group"" title=""Simplicial group"">simplicial group</a> <i>G</i>, the <b>normalized chain complex</b> <i>NG</i> of <i>G</i> is given by <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle (NG)_{n}=\cap _{1}^{\infty }\operatorname {ker} d_{i}^{n}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2601,18 +2601,18 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
     <annotation encoding=""application/x-tex"">{\displaystyle d_{0}^{n}}</annotation>
   </semantics>
 "</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/df139ba9b4f881ca1f03276ff39fbe719f9fe06d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:2.437ex; height:2.843ex;"" alt=""{\displaystyle d_{0}^{n}}""/></span>; intuitively, one throws out degenerate chains.<sup id=""cite_ref-5"" class=""reference""><a href=""#cite_note-5"">&#91;5&#93;</a></sup> It is also called the <b>Moore complex</b>.</dd>
-"<dt class=""glossary"" id=""obstruction_cocycle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">obstruction cocycle</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""obstruction_theory"" style=""margin-top: 0.4em;""><dfn class=""glossary"">obstruction theory</dfn></dt>"¬"
+"obstruction cocycle"¬"TODO"
+"obstruction theory"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Obstruction_theory"" title=""Obstruction theory"">Obstruction theory</a> is the collection of constructions and calculations indicating when some map on a submanifold (subcomplex) can or cannot be extended to the full manifold. These typically involve the <a href=""https://en.wikipedia.org/wiki/Postnikov_tower"" class=""mw-redirect"" title=""Postnikov tower"">Postnikov tower</a>, <a href=""https://en.wikipedia.org/w/index.php?title=Killing_homotopy_group&amp;action=edit&amp;redlink=1"" class=""new"" title=""Killing homotopy group (page does not exist)"">killing homotopy groups</a>, <a href=""https://en.wikipedia.org/w/index.php?title=Obstruction_cocycle&amp;action=edit&amp;redlink=1"" class=""new"" title=""Obstruction cocycle (page does not exist)"">obstruction cocycles</a>, etc.</dd>
 "
-"<dt class=""glossary"" id=""of_finite_type"" style=""margin-top: 0.4em;""><dfn class=""glossary"">of finite type</dfn></dt>"¬"
+"of finite type"¬"
 <dd class=""glossary"">A CW complex is of finite type if there are only finitely many cells in each dimension.</dd>
 "
-"<dt class=""glossary"" id=""operad"" style=""margin-top: 0.4em;""><dfn class=""glossary"">operad</dfn></dt>"¬"
+"operad"¬"
 <dd class=""glossary"">The portmanteau of “operations” and “monad”. See <a href=""https://en.wikipedia.org/wiki/Operad"" title=""Operad"">operad</a>.</dd>
 "
-"<dt class=""glossary"" id=""orbit_category"" style=""margin-top: 0.4em;""><dfn class=""glossary"">orbit category</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""orientation"" style=""margin-top: 0.4em;""><dfn class=""glossary"">orientation</dfn></dt>"¬"
+"orbit category"¬"TODO"
+"orientation"¬"
 <dd class=""glossary"">1.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Orientation_covering"" class=""mw-redirect"" title=""Orientation covering"">orientation covering</a> (or orientation double cover) of a manifold is a two-sheeted covering so that each fiber over <i>x</i> corresponds to two different ways of orienting a neighborhood of <i>x</i>.</dd>
 <dd class=""glossary"">2.&#160;&#160;An <a href=""https://en.wikipedia.org/wiki/Orientation_of_a_manifold"" class=""mw-redirect"" title=""Orientation of a manifold"">orientation of a manifold</a> is a section of an orientation covering; i.e., a consistent choice of a point in each fiber.</dd>
 <dd class=""glossary"">3.&#160;&#160;An <a href=""https://en.wikipedia.org/wiki/Orientation_character"" title=""Orientation character"">orientation character</a> (also called the first <a href=""https://en.wikipedia.org/wiki/Stiefel%E2%80%93Whitney_class"" title=""Stiefel–Whitney class"">Stiefel–Whitney class</a>) is a group homomorphism <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{1}(X,x_{0})\to \{\pm 1\}}"">
@@ -2647,13 +2647,13 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ac38857cb6d0fd547276d25b8d7c455fe886ed51"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:18.496ex; height:2.843ex;"" alt=""\pi _{1}(X,x_{0})\to \{\pm 1\}""/></span> that corresponds to an orientation covering of a manifold <i>X</i> (cf. <a href=""#covering"">#covering</a>.)</dd>
 <dd class=""glossary"">4.&#160;&#160;See also <a href=""https://en.wikipedia.org/wiki/Orientation_of_a_vector_bundle"" title=""Orientation of a vector bundle"">orientation of a vector bundle</a> as well as <a href=""https://en.wikipedia.org/wiki/Orientation_sheaf"" title=""Orientation sheaf"">orientation sheaf</a>.</dd>
 "
-"<dt class=""glossary"" id=""&#39;&#39;p&#39;&#39;-adic_homotopy_theory"" style=""margin-top: 0.4em;""><dfn class=""glossary""><i>p</i>-adic homotopy theory</dfn></dt>"¬"
+"<i>p</i>-adic homotopy theory"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/w/index.php?title=P-adic_homotopy_theory&amp;action=edit&amp;redlink=1"" class=""new"" title=""P-adic homotopy theory (page does not exist)""><i>p</i>-adic homotopy theory</a>.</dd>
 "
-"<dt class=""glossary"" id=""path_class"" style=""margin-top: 0.4em;""><dfn class=""glossary"">path class</dfn></dt>"¬"
+"path class"¬"
 <dd class=""glossary"">An equivalence class of paths (two paths are equivalent if they are homotopic to each other).</dd>
 "
-"<dt class=""glossary"" id=""path_lifting"" style=""margin-top: 0.4em;""><dfn class=""glossary"">path lifting</dfn></dt>"¬"
+"path lifting"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/w/index.php?title=Path_lifting_function&amp;action=edit&amp;redlink=1"" class=""new"" title=""Path lifting function (page does not exist)"">path lifting function</a> for a map <i>p</i>: <i>E</i> → <i>B</i> is a section of <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle E^{I}\to P_{p}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2691,7 +2691,7 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/050e92896668f9c99fe3fe025a047c48e59a8251"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:2.551ex; height:2.843ex;"" alt=""P_{p}""/></span> is the <a href=""https://en.wikipedia.org/wiki/Mapping_path_space"" class=""mw-redirect"" title=""Mapping path space"">mapping path space</a> of <i>p</i>. For example, a covering is a fibration with a unique path lifting function. By formal consideration, a map is a fibration if and only if there is a path lifting function for it.</dd>
 "
-"<dt class=""glossary"" id=""path_space"" style=""margin-top: 0.4em;""><dfn class=""glossary"">path space</dfn></dt>"¬"
+"path space"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/w/index.php?title=Path_space_(algebraic_topology)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Path space (algebraic topology) (page does not exist)"">path space</a> of a based space <i>X</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle PX=\operatorname {Map} (I,X)}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2766,8 +2766,8 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b372331db039fbac1df6fa94dbc87af06a95cfa7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.658ex; height:2.176ex;"" alt=""\Omega X""/></span>. See also <a href=""https://en.wikipedia.org/wiki/Mapping_path_space"" class=""mw-redirect"" title=""Mapping path space"">mapping path space</a>.</dd>
 "
-"<dt class=""glossary"" id=""phantom_map"" style=""margin-top: 0.4em;""><dfn class=""glossary"">phantom map</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""poincaré"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Poincaré</dfn></dt>"¬"
+"phantom map"¬"TODO"
+"Poincaré"¬"
 <dd class=""glossary"">1.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Poincar%C3%A9_duality_theorem"" class=""mw-redirect"" title=""Poincaré duality theorem"">Poincaré duality theorem</a> says: given a manifold <i>M</i> of dimension <i>n</i> and an abelian group <i>A</i>, there is a natural isomorphism
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {H} _{c}^{*}(M;A)\simeq \operatorname {H} _{n-*}(M;A)}"">
   <semantics>
@@ -2810,20 +2810,20 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7fc2e50545dd85354c4fd5bff2b6f23bfa652143"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:25.015ex; height:2.843ex;"" alt=""\operatorname {H} _{c}^{*}(M;A)\simeq \operatorname {H} _{n-*}(M;A)""/></span>.</dd></dl></dd></dl>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture"" title=""Poincaré conjecture"">Poincaré conjecture</a></dd>
 "
-"<dt class=""glossary"" id=""pontrjagin–thom_construction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Pontrjagin–Thom construction</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""postnikov_system"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Postnikov system</dfn></dt>"¬"
+"Pontrjagin–Thom construction"¬"TODO"
+"Postnikov system"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Postnikov_system"" title=""Postnikov system"">Postnikov system</a> is a sequence of fibrations, such that all preceding manifolds have vanishing <a href=""https://en.wikipedia.org/wiki/Homotopy_group"" title=""Homotopy group"">homotopy groups</a> below a given dimension.</dd>
 "
-"<dt class=""glossary"" id=""principal_fibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">principal fibration</dfn></dt>"¬"
+"principal fibration"¬"
 <dd class=""glossary"">Usually synonymous with <a href=""https://en.wikipedia.org/wiki/G-fibration"" title=""G-fibration""><i>G</i>-fibration</a>.</dd>
 "
-"<dt class=""glossary"" id=""profinite"" style=""margin-top: 0.4em;""><dfn class=""glossary"">profinite</dfn></dt>"¬"
+"profinite"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Profinite_homotopy_theory&amp;action=edit&amp;redlink=1"" class=""new"" title=""Profinite homotopy theory (page does not exist)"">profinite homotopy theory</a>; it studies <a href=""https://en.wikipedia.org/w/index.php?title=Profinite_space&amp;action=edit&amp;redlink=1"" class=""new"" title=""Profinite space (page does not exist)"">profinite spaces</a>.</dd>
 "
-"<dt class=""glossary"" id=""properly_discontinuous"" style=""margin-top: 0.4em;""><dfn class=""glossary"">properly discontinuous</dfn></dt>"¬"
+"properly discontinuous"¬"
 <dd class=""glossary"">Not particularly a precise term. But it could mean, for example, that <i>G</i> is discrete and each point of the <i>G</i>-space has a neighborhood <i>V</i> such that for each <i>g</i> in <i>G</i> that is not the identity element, <i>gV</i> intersects <i>V</i> at finitely many points.</dd>
 "
-"<dt class=""glossary"" id=""pullback"" style=""margin-top: 0.4em;""><dfn class=""glossary"">pullback</dfn></dt>"¬"
+"pullback"¬"
 <dd class=""glossary"">Given a map <i>p</i>:<i>E</i>→<i>B</i>, the <a href=""https://en.wikipedia.org/w/index.php?title=Pullback_(topology)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Pullback (topology) (page does not exist)"">pullback</a> of <i>p</i> along <i>ƒ</i>:<i>X</i>→<i>B</i> is the space <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f^{*}E=\{(e,x)\in E\times X|p(e)=f(x)\}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -2865,7 +2865,7 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/dcac21ffee2898a84166e109ee8725d461237c97"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:36.492ex; height:2.843ex;"" alt=""f^{*}E=\{(e,x)\in E\times X|p(e)=f(x)\}""/></span> (succinctly it is the <a href=""https://en.wikipedia.org/wiki/Equalizer_(mathematics)"" class=""mw-redirect"" title=""Equalizer (mathematics)"">equalizer</a> of <i>p</i> and <i>f</i>). It is a space over <i>X</i> through a projection.</dd>
 "
-"<dt class=""glossary"" id=""puppe_sequence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Puppe sequence</dfn></dt>"¬"
+"Puppe sequence"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Puppe_sequence"" title=""Puppe sequence"">Puppe sequence</a> refers ro either of the sequences
 <dl><dd><dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X{\overset {f}{\to }}Y\to C_{f}\to \Sigma X\to \Sigma Y\to \cdots ,}"">
   <semantics>
@@ -2955,7 +2955,7 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/8347406983aa597858b418a55ddf47edfcaa565e"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:6.463ex; height:2.843ex;"" alt=""{\displaystyle C_{f},F_{f}}""/></span> are homotopy cofiber and homotopy fiber of <i>f</i>.</dd></dl></dd>
 "
-"<dt class=""glossary"" id=""pushout"" style=""margin-top: 0.4em;""><dfn class=""glossary"">pushout</dfn></dt>"¬"
+"pushout"¬"
 <dd class=""glossary"">Given <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle A\subset B}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3016,10 +3016,10 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
 <dd>that is <i>X</i> and <i>B</i> are glued together along <i>A</i> through <i>f</i>. The map <i>f</i> is usually called the attaching map.</dd></dl>
 
 "<dl><dd>The important example is when <i>B</i> = <i>D</i><sup><i>n</i></sup>, <i>A</i> = <i>S</i><sup><i>n</i>-1</sup>; in that case, forming such a pushout is called attaching an <i>n</i>-cell (meaning an <i>n</i>-disk) to <i>X</i>.</dd></dl></dd>
-"<dt class=""glossary"" id=""quasi-fibration"" style=""margin-top: 0.4em;""><dfn class=""glossary"">quasi-fibration</dfn></dt>"¬"
+"quasi-fibration"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Quasi-fibration"" title=""Quasi-fibration"">quasi-fibration</a> is a map such that the fibers are homotopy equivalent to each other.</dd>
 "
-"<dt class=""glossary"" id=""quillen"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Quillen</dfn></dt>"¬"
+"Quillen"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Daniel_Quillen"" title=""Daniel Quillen"">Daniel Quillen</a></dd>
 <dd class=""glossary"">2.&#160;&#160;Quillen’s theorem says that <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{*}MU}"">
   <semantics>
@@ -3039,7 +3039,7 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d1fe04ab6274ffe13e803d46bd1f68e97c2c464f"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.293ex; margin-bottom: -0.379ex; width:6.604ex; height:2.509ex;"" alt=""\pi _{*}MU""/></span> is the <a href=""https://en.wikipedia.org/wiki/Lazard_ring"" class=""mw-redirect"" title=""Lazard ring"">Lazard ring</a>.</dd>
 "
-"<dt class=""glossary"" id=""rational"" style=""margin-top: 0.4em;""><dfn class=""glossary"">rational</dfn></dt>"¬"
+"rational"¬"
 <dd class=""glossary"">1.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Rational_homotopy_theory"" title=""Rational homotopy theory"">rational homotopy theory</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Rationalization_(algebraic_topology)"" class=""mw-redirect"" title=""Rationalization (algebraic topology)"">rationalization</a> of a space <i>X</i> is, roughly, the <a href=""https://en.wikipedia.org/wiki/Localization_of_a_space"" class=""mw-redirect"" title=""Localization of a space"">localization</a> of <i>X</i> at zero. More precisely, <i>X</i><sub>0</sub> together with <i>j</i>: <i>X</i> → <i>X</i><sub>0</sub> is a rationalization of <i>X</i> if the map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{*}X\otimes \mathbb {Q} \to \pi _{*}X_{0}\otimes \mathbb {Q} }"">
   <semantics>
@@ -3117,14 +3117,14 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/a0270e8b741621f2be0c64d2833924a7cf9ac392"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:18.463ex; height:2.509ex;"" alt=""{\displaystyle \pi _{*}X_{0}\otimes \mathbb {Q} \simeq \pi _{*}X_{0}}""/></span>.</dd>
 <dd class=""glossary"">3.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Rational_homotopy_type"" class=""mw-redirect"" title=""Rational homotopy type"">rational homotopy type</a> of <i>X</i> is the weak homotopy type of <i>X</i><sub>0</sub>.</dd>
 "
-"<dt class=""glossary"" id=""regulator"" style=""margin-top: 0.4em;""><dfn class=""glossary"">regulator</dfn></dt>"¬"
+"regulator"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/w/index.php?title=Borel_regulator&amp;action=edit&amp;redlink=1"" class=""new"" title=""Borel regulator (page does not exist)"">Borel regulator</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Beilinson_regulator"" title=""Beilinson regulator"">Beilinson regulator</a>.</dd>
 "
-"<dt class=""glossary"" id=""reidemeister"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Reidemeister</dfn></dt>"¬"
+"Reidemeister"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Reidemeister_torsion"" class=""mw-redirect"" title=""Reidemeister torsion"">Reidemeister torsion</a>.</dd>
 "
-"<dt class=""glossary"" id=""reduced"" style=""margin-top: 0.4em;""><dfn class=""glossary"">reduced</dfn></dt>"¬"
+"reduced"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Reduced_suspension"" class=""mw-redirect"" title=""Reduced suspension"">reduced suspension</a> of a based space <i>X</i> is the smash product <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \Sigma X=X\wedge S^{1}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3194,30 +3194,30 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4748b3dfdb12d4c40e5180f73fac619925add204"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:18.328ex; height:3.176ex;"" alt=""\Omega Y=\operatorname {Map} (S^{1},Y)""/></span> is the loop space.</dd>
 "
-"<dt class=""glossary"" id=""ring_spectrum"" style=""margin-top: 0.4em;""><dfn class=""glossary"">ring spectrum</dfn></dt>"¬"
+"ring spectrum"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Ring_spectrum"" title=""Ring spectrum"">ring spectrum</a> is a spectrum that satisfying the ring axioms, either on nose or up to homotopy. For example, a <a href=""https://en.wikipedia.org/wiki/Complex_K-theory"" class=""mw-redirect"" title=""Complex K-theory"">complex K-theory</a> is a ring spectrum.</dd>
 "
-"<dt class=""glossary"" id=""samelson_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Samelson product</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""serre"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Serre</dfn></dt>"¬"
+"Samelson product"¬"TODO"
+"Serre"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Jean-Pierre_Serre"" title=""Jean-Pierre Serre"">Jean-Pierre Serre</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/w/index.php?title=Serre_class&amp;action=edit&amp;redlink=1"" class=""new"" title=""Serre class (page does not exist)"">Serre class</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Serre_spectral_sequence"" title=""Serre spectral sequence"">Serre spectral sequence</a>.</dd>
 "
-"<dt class=""glossary"" id=""simple"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simple</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""simple-homotopy_equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simple-homotopy equivalence</dfn></dt>"¬"
+"simple"¬"TODO"
+"simple-homotopy equivalence"¬"
 <dd class=""glossary"">A map ƒ:<i>X</i>→<i>Y</i> between finite simplicial complexes (e.g., manifolds) is a <a href=""https://en.wikipedia.org/wiki/Simple-homotopy_equivalence"" title=""Simple-homotopy equivalence"">simple-homotopy equivalence</a> if it is homotopic to a composition of finitely many <a href=""https://en.wikipedia.org/w/index.php?title=Elementary_expansion&amp;action=edit&amp;redlink=1"" class=""new"" title=""Elementary expansion (page does not exist)"">elementary expansions</a> and <a href=""https://en.wikipedia.org/w/index.php?title=Elementary_collapse&amp;action=edit&amp;redlink=1"" class=""new"" title=""Elementary collapse (page does not exist)"">elementary collapses</a>. A homotopy equivalence is a simple-homotopy equivalence if and only if its <a href=""https://en.wikipedia.org/wiki/Whitehead_torsion"" title=""Whitehead torsion"">Whitehead torsion</a> vanishes.</dd>
 "
-"<dt class=""glossary"" id=""simplicial_approximation"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial approximation</dfn></dt>"¬"
+"simplicial approximation"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Simplicial_approximation_theorem"" title=""Simplicial approximation theorem"">simplicial approximation theorem</a>.</dd>
 "
-"<dt class=""glossary"" id=""simplicial_complex"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial complex</dfn></dt>"¬"
+"simplicial complex"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Simplicial_complex"" title=""Simplicial complex"">simplicial complex</a>; the basic example is a triangulation of a manifold.</dd>
 "
-"<dt class=""glossary"" id=""simplicial_homology"" style=""margin-top: 0.4em;""><dfn class=""glossary"">simplicial homology</dfn></dt>"¬"
+"simplicial homology"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Simplicial_homology"" title=""Simplicial homology"">simplicial homology</a> is the (canonical) homology of a simplicial complex. Note it applies to simplicial complexes and not to spaces; cf. <a href=""#singular_homology"">#singular homology</a>.</dd>
 "
-"<dt class=""glossary"" id=""signature_invariant"" style=""margin-top: 0.4em;""><dfn class=""glossary"">signature invariant</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""singular"" style=""margin-top: 0.4em;""><dfn class=""glossary"">singular</dfn></dt>"¬"
+"signature invariant"¬"TODO"
+"singular"¬"
 <dd class=""glossary"">1.&#160;&#160;Given a space <i>X</i> and an abelian group π, the <a href=""https://en.wikipedia.org/wiki/Singular_homology_group"" class=""mw-redirect"" title=""Singular homology group"">singular homology group</a> of <i>X</i> with coefficients in π is
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {H} _{*}(X;\pi )=\operatorname {H} _{*}(C_{*}(X)\otimes \pi )}"">
   <semantics>
@@ -3318,9 +3318,9 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/46c01a007b8e60d85ab7d553708484eadf85c9bb"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:13.136ex; height:2.509ex;"" alt=""{\displaystyle \mathbf {Top} \to s\mathbf {Set} }""/></span> from the category of all spaces to the category of simplicial sets, that is the right adjoint to the <a href=""https://en.wikipedia.org/wiki/Geometric_realization_functor"" class=""mw-redirect"" title=""Geometric realization functor"">geometric realization functor</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;The <b>singular simplicial complex</b> of a space <i>X</i> is the <a href=""https://en.wikipedia.org/wiki/Normalized_chain_complex"" class=""mw-redirect"" title=""Normalized chain complex"">normalized chain complex</a> of the singular simplex of <i>X</i>.</dd>
 "
-"<dt class=""glossary"" id=""slant_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">slant product</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""small_object_argument"" style=""margin-top: 0.4em;""><dfn class=""glossary"">small object argument</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""smash_product"" style=""margin-top: 0.4em;""><dfn class=""glossary"">smash product</dfn></dt>"¬"
+"slant product"¬"TODO"
+"small object argument"¬"TODO"
+"smash product"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Smash_product"" title=""Smash product"">smash product</a> of based spaces <i>X</i>, <i>Y</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X\wedge Y=X\times Y/X\vee Y}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3376,16 +3376,16 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c7c9565c7ff0768fabf7bb5cb2c57d19b905fa96"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:38.836ex; height:2.843ex;"" alt=""\operatorname {Map} (X\wedge Y,Z)=\operatorname {Map} (X,\operatorname {Map} (Y,Z))""/></span>.</dd></dl></dd></dl>
 "
-"<dt class=""glossary"" id=""spanier–whitehead"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Spanier–Whitehead</dfn></dt>"¬"
+"Spanier–Whitehead"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Spanier%E2%80%93Whitehead_duality"" title=""Spanier–Whitehead duality"">Spanier–Whitehead duality</a>.</dd>
 "
-"<dt class=""glossary"" id=""spectrum"" style=""margin-top: 0.4em;""><dfn class=""glossary"">spectrum</dfn></dt>"¬"
+"spectrum"¬"
 <dd class=""glossary"">Roughly a sequence of spaces together with the maps (called the structure maps) between the consecutive terms; see <a href=""https://en.wikipedia.org/wiki/Spectrum_(topology)"" title=""Spectrum (topology)"">spectrum (topology)</a>.</dd>
 "
-"<dt class=""glossary"" id=""sphere_bundle"" style=""margin-top: 0.4em;""><dfn class=""glossary"">sphere bundle</dfn></dt>"¬"
+"sphere bundle"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Sphere_bundle"" title=""Sphere bundle"">sphere bundle</a> is a fiber bundle whose fibers are spheres.</dd>
 "
-"<dt class=""glossary"" id=""sphere_spectrum"" style=""margin-top: 0.4em;""><dfn class=""glossary"">sphere spectrum</dfn></dt>"¬"
+"sphere spectrum"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Sphere_spectrum"" title=""Sphere spectrum"">sphere spectrum</a> is a spectrum consisting of a sequence of spheres <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle S^{0},S^{1},S^{2},S^{3},\dots }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3439,20 +3439,20 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/059153ab9372a06326d2cf984574e5f3cefd24a7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:2.576ex; height:2.676ex;"" alt=""S^{0}""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""stable_homotopy_group"" style=""margin-top: 0.4em;""><dfn class=""glossary"">stable homotopy group</dfn></dt>"¬"
+"stable homotopy group"¬"
 <dd class=""glossary"">See <a href=""#homotopy_group"">#homotopy group</a>.</dd>
 "
-"<dt class=""glossary"" id=""steenrod_homology"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Steenrod homology</dfn></dt>"¬"
+"Steenrod homology"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Steenrod_homology"" title=""Steenrod homology"">Steenrod homology</a>.</dd>
 "
-"<dt class=""glossary"" id=""steenrod_operation"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Steenrod operation</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""sullivan"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Sullivan</dfn></dt>"¬"
+"Steenrod operation"¬"TODO"
+"Sullivan"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Dennis_Sullivan"" title=""Dennis Sullivan"">Dennis Sullivan</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Sullivan_conjecture"" title=""Sullivan conjecture"">Sullivan conjecture</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;<cite class=""citation""><a rel=""nofollow"" class=""external text"" href=""http://www.numdam.org/item?id=PMIHES_1977__47__269_0""><i>Infinitesimal computations in topology</i></a>, 1977</cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Infinitesimal+computations+in+topology&amp;rft.date=1977&amp;rft_id=http%3A%2F%2Fwww.numdam.org%2Fitem%3Fid%3DPMIHES_1977&#95;_47&#95;_269_0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlossary+of+algebraic+topology"" class=""Z3988""></span><style data-mw-deduplicate=""TemplateStyles:r951705291"">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:""\""""""\""""""'""""'""}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url(""//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png"");background-image:linear-gradient(transparent,transparent),url(""//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg"");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url(""//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png"");background-image:linear-gradient(transparent,transparent),url(""//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg"");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url(""//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png"");background-image:linear-gradient(transparent,transparent),url(""//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg"");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url(""//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png"");background-image:linear-gradient(transparent,transparent),url(""//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg"");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style> - introduces <a href=""https://en.wikipedia.org/wiki/Rational_homotopy_theory"" title=""Rational homotopy theory"">rational homotopy theory</a> (along with Quillen's paper).</dd>
 <dd class=""glossary"">4.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Sullivan_algebra"" class=""mw-redirect"" title=""Sullivan algebra"">Sullivan algebra</a> in the rational homotopy theory.</dd>
 "
-"<dt class=""glossary"" id=""suspension_spectrum"" style=""margin-top: 0.4em;""><dfn class=""glossary"">suspension spectrum</dfn></dt>"¬"
+"suspension spectrum"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Suspension_spectrum"" class=""mw-redirect"" title=""Suspension spectrum"">suspension spectrum</a> of a based space <i>X</i> is the spectrum given by <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X_{n}=\Sigma ^{n}X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3477,10 +3477,10 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/12921153a366320748f13cd0f0c51b6734df3e55"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:11.118ex; height:2.676ex;"" alt=""{\displaystyle X_{n}=\Sigma ^{n}X}""/></span>.</dd>
 "
-"<dt class=""glossary"" id=""symmetric_spectrum"" style=""margin-top: 0.4em;""><dfn class=""glossary"">symmetric spectrum</dfn></dt>"¬"
+"symmetric spectrum"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Symmetric_spectrum"" title=""Symmetric spectrum"">symmetric spectrum</a>.</dd>
 "
-"<dt class=""glossary"" id=""thom"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Thom</dfn></dt>"¬"
+"Thom"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Ren%C3%A9_Thom"" title=""René Thom"">René Thom</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;If <i>E</i> is a vector bundle on a paracompact space <i>X</i>, then the <a href=""https://en.wikipedia.org/wiki/Thom_space"" title=""Thom space"">Thom space</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle {\text{Th}}(E)}"">
   <semantics>
@@ -3550,16 +3550,16 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7be582dc2294641e9035c2db4b4bd03093700157"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:28.281ex; height:3.509ex;"" alt=""{\widetilde {\operatorname {H} }}^{*+n}({\text{Th}}(E);\mathbb {Z} )\simeq \operatorname {H} ^{*}(X;\mathbb {Z} )""/></span>.</dd></dl></dd></dl>
 "
-"<dt class=""glossary"" id=""topological_chiral_homology"" style=""margin-top: 0.4em;""><dfn class=""glossary"">topological chiral homology</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""transfer"" style=""margin-top: 0.4em;""><dfn class=""glossary"">transfer</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""transgression"" style=""margin-top: 0.4em;""><dfn class=""glossary"">transgression</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""universal_coefficient"" style=""margin-top: 0.4em;""><dfn class=""glossary"">universal coefficient</dfn></dt>"¬"
+"topological chiral homology"¬"TODO"
+"transfer"¬"TODO"
+"transgression"¬"TODO"
+"universal coefficient"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Universal_coefficient_theorem"" title=""Universal coefficient theorem"">universal coefficient theorem</a>.</dd>
 "
-"<dt class=""glossary"" id=""up_to_homotopy"" style=""margin-top: 0.4em;""><dfn class=""glossary"">up to homotopy</dfn></dt>"¬"
+"up to homotopy"¬"
 <dd class=""glossary"">A statement holds in the <a href=""https://en.wikipedia.org/wiki/Homotopy_category"" title=""Homotopy category"">homotopy category</a> as opposed to the category of spaces.</dd>
 "
-"<dt class=""glossary"" id=""van_kampen"" style=""margin-top: 0.4em;""><dfn class=""glossary"">van Kampen</dfn></dt>"¬"
+"van Kampen"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Van_Kampen_theorem"" class=""mw-redirect"" title=""Van Kampen theorem"">van Kampen theorem</a> says: if a space <i>X</i> is path-connected and if <i>x</i><sub>0</sub> is a point in <i>X</i>, then
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{1}(X,x_{0})=\varinjlim \pi _{1}(U,x_{0})}"">
   <semantics>
@@ -3611,11 +3611,11 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/54a180ffabf70b0f2f09eca1c284a8b21f31c0ad"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.637ex; margin-bottom: -0.367ex; width:25.821ex; height:4.009ex;"" alt=""\pi _{1}(X,x_{0})=\varinjlim \pi _{1}(U,x_{0})""/></span></dd></dl>
 "where the <a href=""https://en.wikipedia.org/wiki/Colimit"" class=""mw-redirect"" title=""Colimit"">colimit</a> runs over some open cover of <i>X</i> consisting of path-connected open subsets containing <i>x</i><sub>0</sub> such that the cover is closed under finite intersections.</dd>
-"<dt class=""glossary"" id=""waldhausen_s-construction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Waldhausen S-construction</dfn></dt>"¬"
+"Waldhausen S-construction"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Waldhausen_S-construction"" class=""mw-redirect"" title=""Waldhausen S-construction"">Waldhausen S-construction</a>.</dd>
 "
-"<dt class=""glossary"" id=""wall&#39;s_finiteness_obstruction"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Wall's finiteness obstruction</dfn></dt>"¬"TODO"
-"<dt class=""glossary"" id=""weak_equivalence"" style=""margin-top: 0.4em;""><dfn class=""glossary"">weak equivalence</dfn></dt>"¬"
+"Wall's finiteness obstruction"¬"TODO"
+"weak equivalence"¬"
 <dd class=""glossary"">A map ƒ:<i>X</i>→<i>Y</i> of based spaces is a <a href=""https://en.wikipedia.org/wiki/Weak_equivalence_(homotopy_theory)"" title=""Weak equivalence (homotopy theory)"">weak equivalence</a> if for each <i>q</i>, the induced map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f_{*}:\pi _{q}X\to \pi _{q}Y}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3648,7 +3648,7 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/bc7747556b69dfe727b50f0925d5c07e15d878f1"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:16.125ex; height:2.843ex;"" alt=""f_{*}:\pi _{q}X\to \pi _{q}Y""/></span> is bijective.</dd>
 "
-"<dt class=""glossary"" id=""wedge"" style=""margin-top: 0.4em;""><dfn class=""glossary"">wedge</dfn></dt>"¬"
+"wedge"¬"
 <dd class=""glossary"">For based spaces <i>X</i>, <i>Y</i>, the <a href=""https://en.wikipedia.org/wiki/Wedge_product_(topology)"" title=""Wedge product (topology)"">wedge product</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X\wedge Y}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -3662,13 +3662,13 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/6edc6915b42026ef5d46c585f7e44955f2d15ecf"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:6.336ex; height:2.176ex;"" alt=""X\wedge Y""/></span> of <i>X</i> and <i>Y</i> is the <a href=""https://en.wikipedia.org/wiki/Coproduct_(category_theory)"" class=""mw-redirect"" title=""Coproduct (category theory)"">coproduct</a> of <i>X</i> and <i>Y</i>; concretely, it is obtained by taking their disjoint union and then identifying the respective base points.</dd>
 "
-"<dt class=""glossary"" id=""well_pointed"" style=""margin-top: 0.4em;""><dfn class=""glossary"">well pointed</dfn></dt>"¬"
+"well pointed"¬"
 <dd class=""glossary"">A based space is <a href=""https://en.wikipedia.org/w/index.php?title=Well_pointed_space&amp;action=edit&amp;redlink=1"" class=""new"" title=""Well pointed space (page does not exist)"">well pointed</a> (or non-degenerately based) if the inclusion of the base point is a cofibration.</dd>
 "
-"<dt class=""glossary"" id=""whitehead"" style=""margin-top: 0.4em;""><dfn class=""glossary"">Whitehead</dfn></dt>"¬"
+"Whitehead"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/J._H._C._Whitehead"" title=""J. H. C. Whitehead"">J. H. C. Whitehead</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Whitehead%27s_theorem"" class=""mw-redirect"" title=""Whitehead&#39;s theorem"">Whitehead's theorem</a> says that for <a href=""https://en.wikipedia.org/wiki/CW_complexes"" class=""mw-redirect"" title=""CW complexes"">CW complexes</a>, the <a href=""https://en.wikipedia.org/wiki/Homotopy_equivalence"" class=""mw-redirect"" title=""Homotopy equivalence"">homotopy equivalence</a> is the same thing as the <a href=""https://en.wikipedia.org/wiki/Weak_equivalence_(homotopy_theory)"" title=""Weak equivalence (homotopy theory)"">weak equivalence</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Whitehead_torsion"" title=""Whitehead torsion"">Whitehead group</a>.</dd>
 <dd class=""glossary"">4.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Whitehead_product"" title=""Whitehead product"">Whitehead product</a>.</dd>
 "
-"<dt class=""glossary"" id=""winding_number"" style=""margin-top: 0.4em;""><dfn class=""glossary"">winding number</dfn></dt>"¬"TODO"
+"winding number"¬"TODO"
