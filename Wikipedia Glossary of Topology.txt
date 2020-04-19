@@ -150,7 +150,7 @@
     <annotation encoding=""application/x-tex"">{\displaystyle {\widetilde {f}}:D^{n+1}\to D^{n+1},\,0\mapsto 0,0\neq x\mapsto |x|f(x/|x|)}</annotation>
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/881dcc49117713e2810c654e808c74b9fa60b4f3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:46.162ex; height:3.176ex;"" alt=""{\displaystyle {\widetilde {f}}:D^{n+1}\to D^{n+1},\,0\mapsto 0,0\neq x\mapsto |x|f(x/|x|)}""/></span>.</dd></dl>
-This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup></dd>
+This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-1"">&#91;1&#93;</a></sup></dd>
 "
 "Analysis Situs"¬"TODO"
 "aspherical space"¬"
@@ -515,7 +515,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Change_of_fiber"" title=""Change of fiber"">change of fiber</a> of a fibration <i>p</i> is a homotopy equivalence, up to homotopy, between the fibers of <i>p</i> induced by a path in the base.</dd>
 "
 "character variety"¬"
-<dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Character_variety"" title=""Character variety"">character variety</a><sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup> of a group π and an algebraic group <i>G</i> (e.g., a reductive complex Lie group) is the <a href=""https://en.wikipedia.org/wiki/Geometric_invariant_theory_quotient"" class=""mw-redirect"" title=""Geometric invariant theory quotient"">geometric invariant theory quotient</a> by <i>G</i>:
+<dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Character_variety"" title=""Character variety"">character variety</a><sup id=""cite_ref-2"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-2"">&#91;2&#93;</a></sup> of a group π and an algebraic group <i>G</i> (e.g., a reductive complex Lie group) is the <a href=""https://en.wikipedia.org/wiki/Geometric_invariant_theory_quotient"" class=""mw-redirect"" title=""Geometric invariant theory quotient"">geometric invariant theory quotient</a> by <i>G</i>:
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle {\mathcal {X}}(\pi ,G)=\operatorname {Hom} (\pi ,G)/\!/G}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -806,7 +806,7 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle h_{t}\circ i=g_{t}}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/54025a7df8d081b28e4354d66031ef04e7515caf"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:10.196ex; height:2.509ex;"" alt=""h_{t}\circ i=g_{t}""/></span>.<sup id=""cite_ref-3"" class=""reference""><a href=""#cite_note-3"">&#91;3&#93;</a></sup> A cofibration is injective and is a homeomorphism onto its image.</dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/54025a7df8d081b28e4354d66031ef04e7515caf"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:10.196ex; height:2.509ex;"" alt=""h_{t}\circ i=g_{t}""/></span>.<sup id=""cite_ref-3"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-3"">&#91;3&#93;</a></sup> A cofibration is injective and is a homeomorphism onto its image.</dd>
 "
 "coherent homotopy"¬"TODO"
 "coherency"¬"
@@ -2338,7 +2338,7 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
 "
 "Mayer–Vietoris sequence"¬"TODO"
 "model category"¬"
-<dd class=""glossary"">A presentation of an <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-category"" class=""mw-redirect"" title=""∞-category"">∞-category</a>.<sup id=""cite_ref-4"" class=""reference""><a href=""#cite_note-4"">&#91;4&#93;</a></sup> See also <a href=""https://en.wikipedia.org/wiki/Model_category"" title=""Model category"">model category</a>.</dd>
+<dd class=""glossary"">A presentation of an <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-category"" class=""mw-redirect"" title=""∞-category"">∞-category</a>.<sup id=""cite_ref-4"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-4"">&#91;4&#93;</a></sup> See also <a href=""https://en.wikipedia.org/wiki/Model_category"" title=""Model category"">model category</a>.</dd>
 "
 "Moore space"¬"TODO"
 "multiplicative"¬"
@@ -2600,7 +2600,7 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle d_{0}^{n}}</annotation>
   </semantics>
-"</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/df139ba9b4f881ca1f03276ff39fbe719f9fe06d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:2.437ex; height:2.843ex;"" alt=""{\displaystyle d_{0}^{n}}""/></span>; intuitively, one throws out degenerate chains.<sup id=""cite_ref-5"" class=""reference""><a href=""#cite_note-5"">&#91;5&#93;</a></sup> It is also called the <b>Moore complex</b>.</dd>
+"</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/df139ba9b4f881ca1f03276ff39fbe719f9fe06d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:2.437ex; height:2.843ex;"" alt=""{\displaystyle d_{0}^{n}}""/></span>; intuitively, one throws out degenerate chains.<sup id=""cite_ref-5"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-5"">&#91;5&#93;</a></sup> It is also called the <b>Moore complex</b>.</dd>
 "obstruction cocycle"¬"TODO"
 "obstruction theory"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Obstruction_theory"" title=""Obstruction theory"">Obstruction theory</a> is the collection of constructions and calculations indicating when some map on a submanifold (subcomplex) can or cannot be extended to the full manifold. These typically involve the <a href=""https://en.wikipedia.org/wiki/Postnikov_tower"" class=""mw-redirect"" title=""Postnikov tower"">Postnikov tower</a>, <a href=""https://en.wikipedia.org/w/index.php?title=Killing_homotopy_group&amp;action=edit&amp;redlink=1"" class=""new"" title=""Killing homotopy group (page does not exist)"">killing homotopy groups</a>, <a href=""https://en.wikipedia.org/w/index.php?title=Obstruction_cocycle&amp;action=edit&amp;redlink=1"" class=""new"" title=""Obstruction cocycle (page does not exist)"">obstruction cocycles</a>, etc.</dd>
@@ -3294,7 +3294,7 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle \triangle ^{n}\to X}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4f78f46b6c4bb0155fb0ac1c637bb0a24453e6af"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:8.878ex; height:2.343ex;"" alt=""\triangle ^{n}\to X""/></span> from the standard <i>n</i>-simplex to <i>X</i>. A singular homology is a special case of a <a href=""https://en.wikipedia.org/wiki/Simplicial_homology"" title=""Simplicial homology"">simplicial homology</a>; indeed, for each space <i>X</i>, there is the <a href=""https://en.wikipedia.org/wiki/Singular_simplicial_complex"" class=""mw-redirect"" title=""Singular simplicial complex"">singular simplicial complex</a> of <i>X</i> <sup id=""cite_ref-6"" class=""reference""><a href=""#cite_note-6"">&#91;6&#93;</a></sup> whose homology is the singular homology of <i>X</i>.</dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/4f78f46b6c4bb0155fb0ac1c637bb0a24453e6af"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:8.878ex; height:2.343ex;"" alt=""\triangle ^{n}\to X""/></span> from the standard <i>n</i>-simplex to <i>X</i>. A singular homology is a special case of a <a href=""https://en.wikipedia.org/wiki/Simplicial_homology"" title=""Simplicial homology"">simplicial homology</a>; indeed, for each space <i>X</i>, there is the <a href=""https://en.wikipedia.org/wiki/Singular_simplicial_complex"" class=""mw-redirect"" title=""Singular simplicial complex"">singular simplicial complex</a> of <i>X</i> <sup id=""cite_ref-6"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-6"">&#91;6&#93;</a></sup> whose homology is the singular homology of <i>X</i>.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Singular_simplices_functor"" class=""mw-redirect"" title=""Singular simplices functor"">singular simplices functor</a> is the functor <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbf {Top} \to s\mathbf {Set} }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
