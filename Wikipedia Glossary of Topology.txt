@@ -1,5 +1,4 @@
-<h2><span id=".21.24.40"></span><span class="mw-headline" id="!$@">!$@</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=1" title="Edit section: !$@">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 
 <dt class="glossary" id="*" style="margin-top: 0.4em;"><dfn class="glossary">*</dfn></dt>
 <dd class="glossary">The base point of a based space.</dd>
@@ -20,10 +19,6 @@
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0f9caabc2ead6f82a8123d91b123018e6e7c48b8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:3.435ex; height:2.509ex;" alt="X_{+}"/></span></dfn></dt>
 <dd class="glossary">For an unbased space <i>X</i>, <i>X</i><sub>+</sub> is the based space obtained by adjoining a disjoint base point.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=2" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="absolute_neighborhood_retract" style="margin-top: 0.4em;"><dfn class="glossary">absolute neighborhood retract</dfn></dt>
 
 <dt class="glossary" id="abstract" style="margin-top: 0.4em;"><dfn class="glossary">abstract</dfn></dt>
@@ -174,10 +169,6 @@ This section is in fact a homotopy inverse.<sup id="cite_ref-1" class="reference
 <dd class="glossary">2.&#160;&#160;<a href="/w/index.php?title=Atiyah_duality&amp;action=edit&amp;redlink=1" class="new" title="Atiyah duality (page does not exist)">Atiyah duality</a>.</dd>
 <dd class="glossary">3.&#160;&#160;The <a href="/wiki/Atiyah%E2%80%93Hirzebruch_spectral_sequence" title="Atiyah–Hirzebruch spectral sequence">Atiyah–Hirzebruch spectral sequence</a>.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=3" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="bar_construction" style="margin-top: 0.4em;"><dfn class="glossary">bar construction</dfn></dt>
 
 <dt class="glossary" id="based_space" style="margin-top: 0.4em;"><dfn class="glossary">based space</dfn></dt>
@@ -282,10 +273,6 @@ This section is in fact a homotopy inverse.<sup id="cite_ref-1" class="reference
     <annotation encoding="application/x-tex">{\displaystyle f:D^{n}\to D^{n}}</annotation>
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fe2435e711c75b153e3e4695b61eb469f198af0d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:13.115ex; height:2.676ex;" alt="f:D^{n}\to D^{n}"/></span> has a fixed point.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=4" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="cap_product" style="margin-top: 0.4em;"><dfn class="glossary">cap product</dfn></dt>
 
 <dt class="glossary" id="čech_cohomology" style="margin-top: 0.4em;"><dfn class="glossary">Čech cohomology</dfn></dt>
@@ -1128,10 +1115,6 @@ This section is in fact a homotopy inverse.<sup id="cite_ref-1" class="reference
 
 <dt class="glossary" id="cyclic_homology" style="margin-top: 0.4em;"><dfn class="glossary">cyclic homology</dfn></dt>
 
-
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=5" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="deck_transformation" style="margin-top: 0.4em;"><dfn class="glossary">deck transformation</dfn></dt>
 <dd class="glossary">Another term for an automorphism of a covering.</dd>
 
@@ -1143,10 +1126,6 @@ This section is in fact a homotopy inverse.<sup id="cite_ref-1" class="reference
 <dt class="glossary" id="degeneracy_cycle" style="margin-top: 0.4em;"><dfn class="glossary">degeneracy cycle</dfn></dt>
 
 <dt class="glossary" id="degree" style="margin-top: 0.4em;"><dfn class="glossary">degree</dfn></dt>
-
-</dl>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=6" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="eckmann–hilton_argument" style="margin-top: 0.4em;"><dfn class="glossary">Eckmann–Hilton argument</dfn></dt>
 <dd class="glossary">The <a href="/wiki/Eckmann%E2%80%93Hilton_argument" title="Eckmann–Hilton argument">Eckmann–Hilton argument</a>.</dd>
 
@@ -1332,10 +1311,6 @@ This section is in fact a homotopy inverse.<sup id="cite_ref-1" class="reference
 <dd>is an isomorphism.</dd></dl></dd>
 
 <dt class="glossary" id="excisive_pair/triad" style="margin-top: 0.4em;"><dfn class="glossary">excisive pair/triad</dfn></dt>
-
-
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=7" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="factorization_homology" style="margin-top: 0.4em;"><dfn class="glossary">factorization homology</dfn></dt>
 
 <dt class="glossary" id="fiber-homotopy_equivalence" style="margin-top: 0.4em;"><dfn class="glossary">fiber-homotopy equivalence</dfn></dt>
@@ -1570,10 +1545,6 @@ This section is in fact a homotopy inverse.<sup id="cite_ref-1" class="reference
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dad135ba6f218b869d8a1df287ef88f5c9ae0da7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:15.98ex; height:2.843ex;" alt="{\displaystyle \pi _{q}X\to \pi _{q+1}\Sigma X}"/></span></dd></dl>
 is bijective for <i>q</i> &lt; 2<i>n</i> - 1 and is surjective if <i>q</i> = 2<i>n</i> - 1.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=8" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="g-fibration" style="margin-top: 0.4em;"><dfn class="glossary">G-fibration</dfn></dt>
 <dd class="glossary">A <a href="/wiki/G-fibration" title="G-fibration">G-fibration</a> with some <a href="/wiki/Topological_monoid" title="Topological monoid">topological monoid</a> <i>G</i>. An example is <a href="/wiki/Moore%27s_path_space_fibration" class="mw-redirect" title="Moore&#39;s path space fibration">Moore's path space fibration</a>.</dd>
 
@@ -1607,10 +1578,6 @@ is bijective for <i>q</i> &lt; 2<i>n</i> - 1 and is surjective if <i>q</i> = 2<i
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/20676791fe5303f461e0c23f2eb5c8acd8740635" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:4.359ex; height:2.509ex;" alt="\pi _{0}X"/></span> is a <a href="/wiki/Group_(mathematics)" title="Group (mathematics)">group</a>; i.e., <i>X</i> satisfies the group axioms up to homotopy.</dd>
 
 <dt class="glossary" id="gysin_sequence" style="margin-top: 0.4em;"><dfn class="glossary">Gysin sequence</dfn></dt>
-
-</dl>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=9" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="h-cobordism" style="margin-top: 0.4em;"><dfn class="glossary">h-cobordism</dfn></dt>
 <dd class="glossary"><a href="/wiki/H-cobordism" title="H-cobordism">h-cobordism</a>.</dd>
@@ -1943,10 +1910,6 @@ is bijective for <i>q</i> &lt; 2<i>n</i> - 1 and is surjective if <i>q</i> = 2<i
 <dt class="glossary" id="hurewicz" style="margin-top: 0.4em;"><dfn class="glossary">Hurewicz</dfn></dt>
 <dd class="glossary">The <a href="/wiki/Hurewicz_theorem" title="Hurewicz theorem">Hurewicz theorem</a> establishes a relationship between homotopy groups and homology groups.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=10" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="infinite_loop_space" style="margin-top: 0.4em;"><dfn class="glossary">infinite loop space</dfn></dt>
 
 <dt class="glossary" id="infinite_loop_space_machine" style="margin-top: 0.4em;"><dfn class="glossary">infinite loop space machine</dfn></dt>
@@ -1956,10 +1919,6 @@ is bijective for <i>q</i> &lt; 2<i>n</i> - 1 and is surjective if <i>q</i> = 2<i
 <dt class="glossary" id="integration_along_the_fiber" style="margin-top: 0.4em;"><dfn class="glossary">integration along the fiber</dfn></dt>
 
 <dt class="glossary" id="isotopy" style="margin-top: 0.4em;"><dfn class="glossary">isotopy</dfn></dt>
-
-</dl>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=11" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="j-homomorphism" style="margin-top: 0.4em;"><dfn class="glossary">J-homomorphism</dfn></dt>
 <dd class="glossary">See <a href="/wiki/J-homomorphism" title="J-homomorphism">J-homomorphism</a>.</dd>
@@ -1986,10 +1945,6 @@ is bijective for <i>q</i> &lt; 2<i>n</i> - 1 and is surjective if <i>q</i> = 2<i
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f97f1a6e7310e0635d6bc818b1be9369ce2f9e8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:19.517ex; height:2.843ex;" alt="X\star Y=\Sigma (X\wedge Y)."/></span></dd>
 
-</dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=12" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="&#39;&#39;k&#39;&#39;-invariant" style="margin-top: 0.4em;"><dfn class="glossary"><i>k</i>-invariant</dfn></dt>
 
 <dt class="glossary" id="kan_complex" style="margin-top: 0.4em;"><dfn class="glossary">Kan complex</dfn></dt>
@@ -2002,10 +1957,6 @@ is bijective for <i>q</i> &lt; 2<i>n</i> - 1 and is surjective if <i>q</i> = 2<i
 <dd class="glossary"><a href="/wiki/Koszul_duality" title="Koszul duality">Koszul duality</a>.</dd>
 
 <dt class="glossary" id="künneth_formula" style="margin-top: 0.4em;"><dfn class="glossary">Künneth formula</dfn></dt>
-
-</dl>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=13" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="lazard_ring" style="margin-top: 0.4em;"><dfn class="glossary">Lazard ring</dfn></dt>
 <dd class="glossary">The <a href="/wiki/Lazard_ring" class="mw-redirect" title="Lazard ring">Lazard ring</a> <i>L</i> is the (huge) commutative ring together with the <a href="/wiki/Formal_group_law" title="Formal group law">formal group law</a> ƒ that is universal among all the formal group laws in the sense that any formal group law <i>g</i> over a commutative ring <i>R</i> is obtained via a ring homomorphism <i>L</i> → <i>R</i> mapping ƒ to <i>g</i>. According to Quillen's theorem, it is also the coefficient ring of the <a href="/wiki/Complex_bordism" class="mw-redirect" title="Complex bordism">complex bordism</a> MU. The <a href="/wiki/Spectrum_of_a_ring" title="Spectrum of a ring">Spec</a> of <i>L</i> is called the <a href="/wiki/Moduli_space_of_formal_group_laws" class="mw-redirect" title="Moduli space of formal group laws">moduli space of formal group laws</a>.</dd>
 
@@ -2326,10 +2277,6 @@ is zero. For example, it implies the <a href="/wiki/Brouwer_fixed-point_theorem"
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b372331db039fbac1df6fa94dbc87af06a95cfa7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:3.658ex; height:2.176ex;" alt="\Omega X"/></span> of a based space <i>X</i> is the space of all loops starting and ending at the base point of <i>X</i>.</dd>
 
-</dl>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=14" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="madsen–weiss_theorem" style="margin-top: 0.4em;"><dfn class="glossary">Madsen–Weiss theorem</dfn></dt>
 
 <dt class="glossary" id="mapping" style="margin-top: 0.4em;"><dfn class="glossary">mapping</dfn></dt>
@@ -2445,10 +2392,6 @@ is zero. For example, it implies the <a href="/wiki/Brouwer_fixed-point_theorem"
 
 <dt class="glossary" id="multiplicative" style="margin-top: 0.4em;"><dfn class="glossary">multiplicative</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Generalized_cohomology_theory" class="mw-redirect" title="Generalized cohomology theory">generalized cohomology theory</a> <i>E</i> is multiplicative if <i>E</i><sup>*</sup>(<i>X</i>) is a <a href="/wiki/Graded_ring" title="Graded ring">graded ring</a>. For example, the ordinary cohomology theory and the complex <i>K</i>-theory are multiplicative (in fact, cohomology theories defined by <a href="/wiki/E-infinity_ring" class="mw-redirect" title="E-infinity ring"><b>E</b><sub>∞</sub>-rings</a> are multiplicative.)</dd>
-
-</dl>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=15" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="&#39;&#39;n&#39;&#39;-cell" style="margin-top: 0.4em;"><dfn class="glossary"><i>n</i>-cell</dfn></dt>
 <dd class="glossary">Another term for an <i>n</i>-disk.</dd>
@@ -2708,10 +2651,6 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class="mwe-mat
     <annotation encoding="application/x-tex">{\displaystyle d_{0}^{n}}</annotation>
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df139ba9b4f881ca1f03276ff39fbe719f9fe06d" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.437ex; height:2.843ex;" alt="{\displaystyle d_{0}^{n}}"/></span>; intuitively, one throws out degenerate chains.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> It is also called the <b>Moore complex</b>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=16" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="obstruction_cocycle" style="margin-top: 0.4em;"><dfn class="glossary">obstruction cocycle</dfn></dt>
 
 <dt class="glossary" id="obstruction_theory" style="margin-top: 0.4em;"><dfn class="glossary">obstruction theory</dfn></dt>
@@ -2759,10 +2698,6 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class="mwe-mat
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac38857cb6d0fd547276d25b8d7c455fe886ed51" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.496ex; height:2.843ex;" alt="\pi _{1}(X,x_{0})\to \{\pm 1\}"/></span> that corresponds to an orientation covering of a manifold <i>X</i> (cf. <a href="#covering">#covering</a>.)</dd>
 <dd class="glossary">4.&#160;&#160;See also <a href="/wiki/Orientation_of_a_vector_bundle" title="Orientation of a vector bundle">orientation of a vector bundle</a> as well as <a href="/wiki/Orientation_sheaf" title="Orientation sheaf">orientation sheaf</a>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=17" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="&#39;&#39;p&#39;&#39;-adic_homotopy_theory" style="margin-top: 0.4em;"><dfn class="glossary"><i>p</i>-adic homotopy theory</dfn></dt>
 <dd class="glossary">The <a href="/w/index.php?title=P-adic_homotopy_theory&amp;action=edit&amp;redlink=1" class="new" title="P-adic homotopy theory (page does not exist)"><i>p</i>-adic homotopy theory</a>.</dd>
@@ -3135,10 +3070,6 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class="mwe-mat
 <dd>that is <i>X</i> and <i>B</i> are glued together along <i>A</i> through <i>f</i>. The map <i>f</i> is usually called the attaching map.</dd></dl>
 
 <dl><dd>The important example is when <i>B</i> = <i>D</i><sup><i>n</i></sup>, <i>A</i> = <i>S</i><sup><i>n</i>-1</sup>; in that case, forming such a pushout is called attaching an <i>n</i>-cell (meaning an <i>n</i>-disk) to <i>X</i>.</dd></dl></dd>
-
-
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=18" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="quasi-fibration" style="margin-top: 0.4em;"><dfn class="glossary">quasi-fibration</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Quasi-fibration" title="Quasi-fibration">quasi-fibration</a> is a map such that the fibers are homotopy equivalent to each other.</dd>
 
@@ -3161,10 +3092,6 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class="mwe-mat
     <annotation encoding="application/x-tex">{\displaystyle \pi _{*}MU}</annotation>
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d1fe04ab6274ffe13e803d46bd1f68e97c2c464f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.293ex; margin-bottom: -0.379ex; width:6.604ex; height:2.509ex;" alt="\pi _{*}MU"/></span> is the <a href="/wiki/Lazard_ring" class="mw-redirect" title="Lazard ring">Lazard ring</a>.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=19" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="rational" style="margin-top: 0.4em;"><dfn class="glossary">rational</dfn></dt>
 <dd class="glossary">1.&#160;&#160;The <a href="/wiki/Rational_homotopy_theory" title="Rational homotopy theory">rational homotopy theory</a>.</dd>
@@ -3323,10 +3250,6 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class="mwe-mat
 
 <dt class="glossary" id="ring_spectrum" style="margin-top: 0.4em;"><dfn class="glossary">ring spectrum</dfn></dt>
 <dd class="glossary">A <a href="/wiki/Ring_spectrum" title="Ring spectrum">ring spectrum</a> is a spectrum that satisfying the ring axioms, either on nose or up to homotopy. For example, a <a href="/wiki/Complex_K-theory" class="mw-redirect" title="Complex K-theory">complex K-theory</a> is a ring spectrum.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=20" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="samelson_product" style="margin-top: 0.4em;"><dfn class="glossary">Samelson product</dfn></dt>
 
@@ -3617,10 +3540,6 @@ where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-mat
 <dt class="glossary" id="symmetric_spectrum" style="margin-top: 0.4em;"><dfn class="glossary">symmetric spectrum</dfn></dt>
 <dd class="glossary">See <a href="/wiki/Symmetric_spectrum" title="Symmetric spectrum">symmetric spectrum</a>.</dd>
 
-
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=21" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="thom" style="margin-top: 0.4em;"><dfn class="glossary">Thom</dfn></dt>
 <dd class="glossary">1.&#160;&#160;<a href="/wiki/Ren%C3%A9_Thom" title="René Thom">René Thom</a>.</dd>
 <dd class="glossary">2.&#160;&#160;If <i>E</i> is a vector bundle on a paracompact space <i>X</i>, then the <a href="/wiki/Thom_space" title="Thom space">Thom space</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\text{Th}}(E)}">
@@ -3697,19 +3616,11 @@ where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-mat
 
 <dt class="glossary" id="transgression" style="margin-top: 0.4em;"><dfn class="glossary">transgression</dfn></dt>
 
-
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=22" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
-
 <dt class="glossary" id="universal_coefficient" style="margin-top: 0.4em;"><dfn class="glossary">universal coefficient</dfn></dt>
 <dd class="glossary">The <a href="/wiki/Universal_coefficient_theorem" title="Universal coefficient theorem">universal coefficient theorem</a>.</dd>
 
 <dt class="glossary" id="up_to_homotopy" style="margin-top: 0.4em;"><dfn class="glossary">up to homotopy</dfn></dt>
 <dd class="glossary">A statement holds in the <a href="/wiki/Homotopy_category" title="Homotopy category">homotopy category</a> as opposed to the category of spaces.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=23" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 
 <dt class="glossary" id="van_kampen" style="margin-top: 0.4em;"><dfn class="glossary">van Kampen</dfn></dt>
 <dd class="glossary">The <a href="/wiki/Van_Kampen_theorem" class="mw-redirect" title="Van Kampen theorem">van Kampen theorem</a> says: if a space <i>X</i> is path-connected and if <i>x</i><sub>0</sub> is a point in <i>X</i>, then
@@ -3763,10 +3674,6 @@ where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-mat
   </semantics>
 </math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a180ffabf70b0f2f09eca1c284a8b21f31c0ad" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.637ex; margin-bottom: -0.367ex; width:25.821ex; height:4.009ex;" alt="\pi _{1}(X,x_{0})=\varinjlim \pi _{1}(U,x_{0})"/></span></dd></dl>
 where the <a href="/wiki/Colimit" class="mw-redirect" title="Colimit">colimit</a> runs over some open cover of <i>X</i> consisting of path-connected open subsets containing <i>x</i><sub>0</sub> such that the cover is closed under finite intersections.</dd>
-
-</dl>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_algebraic_topology&amp;action=edit&amp;section=24" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
 <dt class="glossary" id="waldhausen_s-construction" style="margin-top: 0.4em;"><dfn class="glossary">Waldhausen S-construction</dfn></dt>
 <dd class="glossary"><a href="/wiki/Waldhausen_S-construction" class="mw-redirect" title="Waldhausen S-construction">Waldhausen S-construction</a>.</dd>
 
