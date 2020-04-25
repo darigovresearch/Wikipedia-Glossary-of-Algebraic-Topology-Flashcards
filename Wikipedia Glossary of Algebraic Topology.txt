@@ -16,7 +16,10 @@
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0f9caabc2ead6f82a8123d91b123018e6e7c48b8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:3.435ex; height:2.509ex;"" alt=""X_{+}""/></span (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">For an unbased space <i>X</i>, <i>X</i><sub>+</sub> is the based space obtained by adjoining a disjoint base point.</dd>"
-"absolute neighborhood retract (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"absolute neighborhood retract (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "abstract (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;Abstract homotopy theory</dd>
 "
@@ -27,7 +30,10 @@
 <dd class=""glossary"">4.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Adams_e-invariant"" class=""mw-redirect"" title=""Adams e-invariant"">Adams <i>e</i>-invariant</a>.</dd>
 <dd class=""glossary"">5.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Adams_operations"" class=""mw-redirect"" title=""Adams operations"">Adams operations</a>.</dd>
 "
-"Alexander duality (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Alexander duality (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Alexander trick (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Alexander_trick"" class=""mw-redirect"" title=""Alexander trick"">Alexander trick</a>  produces a section of the restriction map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {Top} (D^{n+1})\to \operatorname {Top} (S^{n})}"">
   <semantics>
@@ -152,27 +158,48 @@
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/881dcc49117713e2810c654e808c74b9fa60b4f3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:46.162ex; height:3.176ex;"" alt=""{\displaystyle {\widetilde {f}}:D^{n+1}\to D^{n+1},\,0\mapsto 0,0\neq x\mapsto |x|f(x/|x|)}""/></span>.</dd></dl>
 This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-1"">&#91;1&#93;</a></sup></dd>
 "
-"Analysis Situs (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Analysis Situs (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "aspherical space (Wikipedia Glossary of Algebraic Topology)"¬"
 {{defn|1=[[Aspherical space]}}
 "
-"assembly map (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"assembly map (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Atiyah (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Michael_Atiyah"" title=""Michael Atiyah"">Michael Atiyah</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/w/index.php?title=Atiyah_duality&amp;action=edit&amp;redlink=1"" class=""new"" title=""Atiyah duality (page does not exist)"">Atiyah duality</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Atiyah%E2%80%93Hirzebruch_spectral_sequence"" title=""Atiyah–Hirzebruch spectral sequence"">Atiyah–Hirzebruch spectral sequence</a>.</dd>
 "
-"bar construction (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"bar construction (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "based space (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A pair (<i>X</i>, <i>x</i><sub>0</sub>) consisting of a space <i>X</i> and a point <i>x</i><sub>0</sub> in <i>X</i>.</dd>
 "
-"Betti number (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"Bockstein homomorphism (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Betti number (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"Bockstein homomorphism (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Borel (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Borel_conjecture"" title=""Borel conjecture"">Borel conjecture</a>.</dd>
 "
-"Borel–Moore homology (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"Borsuk's theorem (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Borel–Moore homology (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"Borsuk's theorem (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Bott (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Raoul_Bott"" title=""Raoul Bott"">Raoul Bott</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Bott_periodicity_theorem"" title=""Bott periodicity theorem"">Bott periodicity theorem</a> for unitary groups say: <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{q}U=\pi _{q+2}U,q\geq 0}"">
@@ -261,8 +288,14 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
     <annotation encoding=""application/x-tex"">{\displaystyle f:D^{n}\to D^{n}}</annotation>
   </semantics>
 "</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/fe2435e711c75b153e3e4695b61eb469f198af0d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:13.115ex; height:2.676ex;"" alt=""f:D^{n}\to D^{n}""/></span> has a fixed point.</dd>
-"cap product (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"Čech cohomology (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"cap product (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"Čech cohomology (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "cellular (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;A map ƒ:<i>X</i>→<i>Y</i> between CW complexes is <a href=""https://en.wikipedia.org/wiki/Cellular_map"" class=""mw-redirect"" title=""Cellular map"">cellular</a> if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f(X^{n})\subset Y^{n}}"">
   <semantics>
@@ -626,8 +659,14 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ff52d8d148f8ee50dabbd769a733a81b58534d04"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:15.515ex; height:3.176ex;"" alt=""{\displaystyle X\mapsto \operatorname {Vect} ^{\mathbb {R} }(X)}""/></span> that sends a space to the set of isomorphism classes of real vector bundles on the space.</dd>
 "
-"clutching (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"cobar spectral sequence (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"clutching (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"cobar spectral sequence (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "cobordism (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;See <a href=""https://en.wikipedia.org/wiki/Cobordism"" title=""Cobordism"">cobordism</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;A <a href=""https://en.wikipedia.org/wiki/Cobordism_ring"" title=""Cobordism ring"">cobordism ring</a> is a ring whose elements are cobordism classes.</dd>
@@ -691,7 +730,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7765fc9102a19771111a01cd0b18c79e231029cf"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:2.798ex; height:2.843ex;"" alt=""C_{f}""/></span> is the reduced mapping cone of ƒ (called the cofiber of ƒ).</dd>
 "
-"cofibrant approximation (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"cofibrant approximation (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "cofibration (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle i:A\to B}"">
   <semantics>
@@ -808,7 +850,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/54025a7df8d081b28e4354d66031ef04e7515caf"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:10.196ex; height:2.509ex;"" alt=""h_{t}\circ i=g_{t}""/></span>.<sup id=""cite_ref-3"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-3"">&#91;3&#93;</a></sup> A cofibration is injective and is a homeomorphism onto its image.</dd>
 "
-"coherent homotopy (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"coherent homotopy (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "coherency (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Coherency_(homotopy_theory)"" title=""Coherency (homotopy theory)"">coherency (homotopy theory)</a></dd>
 "
@@ -833,9 +878,18 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f0f95d1cc69655e66d5fb0df6ac2885da9844686"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:7.048ex; height:2.843ex;"" alt=""{\displaystyle [X,S^{n}]}""/></span> is called the <i>n</i>-th <a href=""https://en.wikipedia.org/wiki/Cohomotopy_group"" title=""Cohomotopy group"">cohomotopy group</a> of <i>X</i>.</dd>
 "
-"cohomology operation (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"completion (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"complex bordism (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"cohomology operation (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"completion (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"complex bordism (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "complex-oriented (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A multiplicative cohomology theory <i>E</i> is <a href=""https://en.wikipedia.org/wiki/Complex-oriented_cohomology_theory"" title=""Complex-oriented cohomology theory"">complex-oriented</a> if the restriction map <i>E</i><sup>2</sup>(<b>C</b><i>P</i><sup>∞</sup>) → <i>E</i><sup>2</sup>(<b>C</b><i>P</i><sup>1</sup>) is surjective.</dd>
 "
@@ -900,7 +954,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/ca84a9d0438b75f93902eeb015c2fbaa6d33e6f9"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:8.35ex; height:2.843ex;"" alt=""{\displaystyle \pi _{q}E=0}""/></span> for all negative integers <i>q</i>.</dd>
 "
-"configuration space (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"configuration space (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "constant (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Constant_sheaf"" title=""Constant sheaf"">constant sheaf</a> on a space <i>X</i> is a sheaf <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle {\mathcal {F}}}"">
   <semantics>
@@ -1052,7 +1109,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/91af70b9a194cdf39ca8575a4e640b633cef7e73"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:31.644ex; height:3.176ex;"" alt=""\operatorname {Hom} (\pi _{1}(X,x_{0}),G)=\operatorname {H} ^{1}(X;G)""/></span> (cf. <a href=""https://en.wikipedia.org/wiki/Nonabelian_cohomology"" title=""Nonabelian cohomology"">nonabelian cohomology</a>.)</dd></dl></dd>
 "
-"cup product (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"cup product (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "CW complex (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/CW_complex"" title=""CW complex"">CW complex</a> is a space <i>X</i> equipped with a CW structure; i.e., a filtration
 <dl><dd><dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X^{0}\subset X^{1}\subset X^{2}\subset \cdots \subset X}"">
@@ -1090,20 +1150,35 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/9bd95270c758f9bcdd4b3351e4c48c54461b3746"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:26.25ex; height:2.676ex;"" alt=""X^{0}\subset X^{1}\subset X^{2}\subset \cdots \subset X""/></span></dd></dl></dd>
 <dd>such that (1) <i>X</i><sup>0</sup> is discrete and (2) <i>X</i><sup><i>n</i></sup> is obtained from <i>X</i><sup><i>n</i>-1</sup> by attaching <i>n</i>-cells.</dd></dl></dd>
 "
-"cyclic homology (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"cyclic homology (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "deck transformation (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">Another term for an automorphism of a covering.</dd>
 "
 " Deligne–Beilinson cohomology (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/w/index.php?title=Deligne%E2%80%93Beilinson_cohomology&amp;action=edit&amp;redlink=1"" class=""new"" title=""Deligne–Beilinson cohomology (page does not exist)"">Deligne–Beilinson cohomology</a></dd>
 "
-"delooping (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"degeneracy cycle (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"degree (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"delooping (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"degeneracy cycle (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"degree (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Eckmann–Hilton argument (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Eckmann%E2%80%93Hilton_argument"" title=""Eckmann–Hilton argument"">Eckmann–Hilton argument</a>.</dd>
 "
-"Eckmann–Hilton duality (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Eckmann–Hilton duality (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Eilenberg–MacLane spaces (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">Given an abelian group π, the <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_spaces"" class=""mw-redirect"" title=""Eilenberg–MacLane spaces"">Eilenberg–MacLane spaces</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle K(\pi ,n)}"">
   <semantics>
@@ -1177,8 +1252,14 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 "Eilenberg–Steenrod axioms (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Eilenberg%E2%80%93Steenrod_axioms"" title=""Eilenberg–Steenrod axioms"">Eilenberg–Steenrod axioms</a> are the set of axioms that any cohomology theory (singular, cellular, etc.) must satisfy. Weakening the axioms (namely dropping the dimension axiom) leads to a <a href=""https://en.wikipedia.org/wiki/Generalized_cohomology_theory"" class=""mw-redirect"" title=""Generalized cohomology theory"">generalized cohomology theory</a>.</dd>
 "
-"Eilenberg–Zilber theorem (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"E<sub><i>n</i></sub>-algebra (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Eilenberg–Zilber theorem (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"E<sub><i>n</i></sub>-algebra (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "equivariant algebraic topology (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Equivariant_algebraic_topoloy"" class=""mw-redirect"" title=""Equivariant algebraic topoloy"">Equivariant algebraic topoloy</a> is the study of spaces with <a href=""https://en.wikipedia.org/wiki/Continuous_group_action"" title=""Continuous group action"">(continuous) group action</a>.</dd>
 "
@@ -1281,8 +1362,14 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/80b71acd1f247e3448b3f1b5b18f40764433e135"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:31.456ex; height:3.009ex;"" alt=""\operatorname {H} _{q}(X-U,A-U)\to \operatorname {H} _{q}(X,A)""/></span></dd></dl></dd>
 <dd>is an isomorphism.</dd></dl></dd>
 "
-"excisive pair/triad (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"factorization homology (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"excisive pair/triad (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"factorization homology (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "fiber-homotopy equivalence (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">Given <i>D</i>→<i>B</i>, <i>E</i>→<i>B</i>, a map ƒ:<i>D</i>→<i>E</i> over <i>B</i> is a <a href=""https://en.wikipedia.org/wiki/Fiber-homotopy_equivalence"" title=""Fiber-homotopy equivalence"">fiber-homotopy equivalence</a> if it is invertible up to homotopy over <i>B</i>. The basic fact is that if <i>D</i>→<i>B</i>, <i>E</i>→<i>B</i> are fibrations, then a homotopy equivalence from <i>D</i> to <i>E</i> is a fiber-homotopy equivalence.</dd>
 "
@@ -1410,8 +1497,14 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/8a8b2ddf2aad99d0bcb620534ecd00b5e6d2b459"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:11.423ex; height:3.343ex;"" alt=""{\displaystyle F\to X{\overset {p}{\to }}B}""/></span> is a fibration sequence to mean that <i>p</i> is a fibration and that <i>F</i> is homotopy equivalent to the homotopy fiber of <i>p</i>, with some understanding of base points.</dd>
 "
-"finitely dominated (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"fundamental class (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"finitely dominated (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"fundamental class (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "fundamental group (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Fundamental_group"" title=""Fundamental group"">fundamental group</a> of a space <i>X</i> with base point <i>x</i><sub>0</sub> is the group of homotopy classes of loops at <i>x</i><sub>0</sub>. It is precisely the first homotopy group of (<i>X</i>, <i>x</i><sub>0</sub>) and is thus denoted by <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{1}(X,x_{0})}"">
   <semantics>
@@ -1516,15 +1609,24 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 "G-fibration (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/G-fibration"" title=""G-fibration"">G-fibration</a> with some <a href=""https://en.wikipedia.org/wiki/Topological_monoid"" title=""Topological monoid"">topological monoid</a> <i>G</i>. An example is <a href=""https://en.wikipedia.org/wiki/Moore%27s_path_space_fibration"" class=""mw-redirect"" title=""Moore&#39;s path space fibration"">Moore's path space fibration</a>.</dd>
 "
-"Γ-space (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Γ-space (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "generalized cohomology theory (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Generalized_cohomology_theory"" class=""mw-redirect"" title=""Generalized cohomology theory"">generalized cohomology theory</a> is a contravariant functor from the category of pairs of spaces to the category of abelian groups that satisfies all of the Eilenberg–Steenrod axioms except the dimension axiom.</dd>
 "
 "geometrization conjecture (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Geometrization_conjecture"" title=""Geometrization conjecture"">geometrization conjecture</a></dd>
 "
-"genus (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"group completion (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"genus (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"group completion (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "grouplike (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">An H-space <i>X</i> is said to be <b>group-like</b> or <b>grouplike</b> if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \pi _{0}X}"">
   <semantics>
@@ -1543,7 +1645,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/20676791fe5303f461e0c23f2eb5c8acd8740635"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:4.359ex; height:2.509ex;"" alt=""\pi _{0}X""/></span> is a <a href=""https://en.wikipedia.org/wiki/Group_(mathematics)"" title=""Group (mathematics)"">group</a>; i.e., <i>X</i> satisfies the group axioms up to homotopy.</dd>
 "
-"Gysin sequence (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Gysin sequence (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "h-cobordism (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/H-cobordism"" title=""H-cobordism"">h-cobordism</a>.</dd>
 "
@@ -1559,7 +1664,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 "homotopy category (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">Let <i>C</i> be a subcategory of the category of all spaces. Then the <a href=""https://en.wikipedia.org/wiki/Homotopy_category"" title=""Homotopy category"">homotopy category</a> of <i>C</i> is the category whose class of objects is the same as the class of objects of <i>C</i> but the set of morphisms from an object <i>x</i> to an object <i>y</i> is the set of the homotopy classes of morphisms from <i>x</i> to <i>y</i> in <i>C</i>. For example, a map is a homotopy equivalence if and only if it is an isomorphism in the homotopy category.</dd>
 "
-"homotopy colimit (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"homotopy colimit (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "homotopy over a space <i>B</i (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A homotopy <i>h</i><sub><i>t</i></sub> such that for each fixed <i>t</i>, <i>h</i><sub><i>t</i></sub> is a map over <i>B</i>.</dd>
 "
@@ -1861,8 +1969,14 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c8cdfe65164d59b470b2e6653c84030f3bf20578"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:13.221ex; height:2.843ex;"" alt=""(EG\times X)/G""/></span> is called the <a href=""https://en.wikipedia.org/wiki/Homotopy_quotient"" class=""mw-redirect"" title=""Homotopy quotient"">homotopy quotient</a> (or Borel construction) of <i>X</i> by <i>G</i>, where <i>EG</i> is the universal bundle of <i>G</i>.</dd>
 "
-"homotopy spectral sequence (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"homotopy sphere (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"homotopy spectral sequence (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"homotopy sphere (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Hopf (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Heinz_Hopf"" title=""Heinz Hopf"">Heinz Hopf</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Hopf_invariant"" title=""Hopf invariant"">Hopf invariant</a>.</dd>
@@ -1872,11 +1986,26 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 "Hurewicz (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Hurewicz_theorem"" title=""Hurewicz theorem"">Hurewicz theorem</a> establishes a relationship between homotopy groups and homology groups.</dd>
 "
-"infinite loop space (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"infinite loop space machine (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"infinite mapping telescope (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"integration along the fiber (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"isotopy (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"infinite loop space (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"infinite loop space machine (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"infinite mapping telescope (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"integration along the fiber (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"isotopy (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "J-homomorphism (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/J-homomorphism"" title=""J-homomorphism"">J-homomorphism</a>.</dd>
 "
@@ -1902,7 +2031,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/f97f1a6e7310e0635d6bc818b1be9369ce2f9e8c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:19.517ex; height:2.843ex;"" alt=""X\star Y=\Sigma (X\wedge Y).""/></span></dd>
 "
-"<i>k</i>-invariant (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"<i>k</i>-invariant (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Kan complex (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">See <a href=""https://en.wikipedia.org/wiki/Kan_complex"" class=""mw-redirect"" title=""Kan complex"">Kan complex</a>.</dd>
 "
@@ -1912,7 +2044,10 @@ This section is in fact a homotopy inverse.<sup id=""cite_ref-1"" class=""refere
 "Koszul duality (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Koszul_duality"" title=""Koszul duality"">Koszul duality</a>.</dd>
 "
-"Künneth formula (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Künneth formula (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 <Lazard ring (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Lazard_ring"" class=""mw-redirect"" title=""Lazard ring"">Lazard ring</a> <i>L</i> is the (huge) commutative ring together with the <a href=""https://en.wikipedia.org/wiki/Formal_group_law"" title=""Formal group law"">formal group law</a> ƒ that is universal among all the formal group laws in the sense that any formal group law <i>g</i> over a commutative ring <i>R</i> is obtained via a ring homomorphism <i>L</i> → <i>R</i> mapping ƒ to <i>g</i>. According to Quillen's theorem, it is also the coefficient ring of the <a href=""https://en.wikipedia.org/wiki/Complex_bordism"" class=""mw-redirect"" title=""Complex bordism"">complex bordism</a> MU. The <a href=""https://en.wikipedia.org/wiki/Spectrum_of_a_ring"" title=""Spectrum of a ring"">Spec</a> of <i>L</i> is called the <a href=""https://en.wikipedia.org/wiki/Moduli_space_of_formal_group_laws"" class=""mw-redirect"" title=""Moduli space of formal group laws"">moduli space of formal group laws</a>.</dd>
 "
@@ -2120,7 +2255,10 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c57d58c96777c58b3042f8cfde9221b1d6a58b52"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:30.908ex; height:2.843ex;"" alt=""\zeta \cdot (z_{1},\dots ,z_{n})=(\zeta z_{1},\dots ,\zeta z_{n})""/></span>.</dd>
 "
-"Leray spectral sequence (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Leray spectral sequence (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "local coefficient (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;A module over the <a href=""https://en.wikipedia.org/wiki/Group_ring"" title=""Group ring"">group ring</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbb {Z} [\pi _{1}B]}"">
   <semantics>
@@ -2214,7 +2352,10 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
 "local sphere (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The localization of a sphere at some prime number</dd>
 "
-"localization (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"localization (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "locally constant sheaf (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Locally_constant_sheaf"" title=""Locally constant sheaf"">locally constant sheaf</a> on a space <i>X</i> is a sheaf such that each point of <i>X</i> has an open neighborhood on which the sheaf is <a href=""https://en.wikipedia.org/wiki/Constant_sheaf"" title=""Constant sheaf"">constant</a>.</dd>
 "
@@ -2231,7 +2372,10 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b372331db039fbac1df6fa94dbc87af06a95cfa7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.658ex; height:2.176ex;"" alt=""\Omega X""/></span> of a based space <i>X</i> is the space of all loops starting and ending at the base point of <i>X</i>.</dd>
 "
-"Madsen–Weiss theorem (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Madsen–Weiss theorem (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "mapping (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;<div class=""thumb tright""><div class=""thumbinner"" style=""width:222px;""><a href=""https://en.wikipedia.org/wiki/File:Mapping_cone.PNG"" class=""image""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mapping_cone.PNG/220px-Mapping_cone.PNG"" decoding=""async"" width=""220"" height=""226"" class=""thumbimage"" srcset=""//upload.wikimedia.org/wikipedia/commons/2/2b/Mapping_cone.PNG 1.5x"" data-file-width=""305"" data-file-height=""314"" /></a>  <div class=""thumbcaption""><div class=""magnify""><a href=""https://en.wikipedia.org/wiki/File:Mapping_cone.PNG"" class=""internal"" title=""Enlarge""></a></div>The mapping cone of a map ƒ:<i>X</i>→<i>Y</i> is obtained by gluing the cone over <i>X</i> to <i>Y</i>.</div></div></div>The <a href=""https://en.wikipedia.org/wiki/Mapping_cone_(topology)"" title=""Mapping cone (topology)"">mapping cone</a> (or cofiber) of a map ƒ:<i>X</i>→<i>Y</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle C_{f}=Y\cup _{f}CX}"">
   <semantics>
@@ -2336,11 +2480,17 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/9870a75924d3ea13db921f2f3be046480bb6c038"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:8.203ex; height:2.676ex;"" alt=""{\displaystyle B^{I}\to B}""/></span> along <i>p</i>. If <i>p</i> is fibration, then the natural map <i>E</i>→<i>P</i><sub><i>p</i></sub> is a <a href=""https://en.wikipedia.org/wiki/Fiber-homotopy_equivalence"" title=""Fiber-homotopy equivalence"">fiber-homotopy equivalence</a>; thus, roughly speaking, one can replace <i>E</i> by the mapping path space without changing the homotopy type of the fiber.</dd>
 "
-"Mayer–Vietoris sequence (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Mayer–Vietoris sequence (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "model category (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A presentation of an <a href=""https://en.wikipedia.org/wiki/%E2%88%9E-category"" class=""mw-redirect"" title=""∞-category"">∞-category</a>.<sup id=""cite_ref-4"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-4"">&#91;4&#93;</a></sup> See also <a href=""https://en.wikipedia.org/wiki/Model_category"" title=""Model category"">model category</a>.</dd>
 "
-"Moore space (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Moore space (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "multiplicative (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Generalized_cohomology_theory"" class=""mw-redirect"" title=""Generalized cohomology theory"">generalized cohomology theory</a> <i>E</i> is multiplicative if <i>E</i><sup>*</sup>(<i>X</i>) is a <a href=""https://en.wikipedia.org/wiki/Graded_ring"" title=""Graded ring"">graded ring</a>. For example, the ordinary cohomology theory and the complex <i>K</i>-theory are multiplicative (in fact, cohomology theories defined by <a href=""https://en.wikipedia.org/wiki/E-infinity_ring"" class=""mw-redirect"" title=""E-infinity ring""><b>E</b><sub>∞</sub>-rings</a> are multiplicative.)</dd>
 "
@@ -2367,7 +2517,10 @@ is zero. For example, it implies the <a href=""https://en.wikipedia.org/wiki/Bro
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/385546f74f444e0258a9a7ba67eaa26aa932718c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:8.555ex; height:2.843ex;"" alt=""{\displaystyle \pi _{q}X=0}""/></span> for all integers <i>q</i> ≤ <i>n</i>. For example, ""1-connected"" is the same thing as ""<a href=""https://en.wikipedia.org/wiki/Simply_connected"" class=""mw-redirect"" title=""Simply connected"">simply connected</a>"".</dd>
 "
-"<i>n</i>-equivalent (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"<i>n</i>-equivalent (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "NDR-pair (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A pair of spaces <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle A\subset X}"">
   <semantics>
@@ -2601,7 +2754,10 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
     <annotation encoding=""application/x-tex"">{\displaystyle d_{0}^{n}}</annotation>
   </semantics>
 "</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/df139ba9b4f881ca1f03276ff39fbe719f9fe06d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -1.005ex; width:2.437ex; height:2.843ex;"" alt=""{\displaystyle d_{0}^{n}}""/></span>; intuitively, one throws out degenerate chains.<sup id=""cite_ref-5"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology#cite_note-5"">&#91;5&#93;</a></sup> It is also called the <b>Moore complex</b>.</dd>
-"obstruction cocycle (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"obstruction cocycle (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "obstruction theory (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Obstruction_theory"" title=""Obstruction theory"">Obstruction theory</a> is the collection of constructions and calculations indicating when some map on a submanifold (subcomplex) can or cannot be extended to the full manifold. These typically involve the <a href=""https://en.wikipedia.org/wiki/Postnikov_tower"" class=""mw-redirect"" title=""Postnikov tower"">Postnikov tower</a>, <a href=""https://en.wikipedia.org/w/index.php?title=Killing_homotopy_group&amp;action=edit&amp;redlink=1"" class=""new"" title=""Killing homotopy group (page does not exist)"">killing homotopy groups</a>, <a href=""https://en.wikipedia.org/w/index.php?title=Obstruction_cocycle&amp;action=edit&amp;redlink=1"" class=""new"" title=""Obstruction cocycle (page does not exist)"">obstruction cocycles</a>, etc.</dd>
 "
@@ -2611,7 +2767,10 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
 "operad (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The portmanteau of “operations” and “monad”. See <a href=""https://en.wikipedia.org/wiki/Operad"" title=""Operad"">operad</a>.</dd>
 "
-"orbit category (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"orbit category (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "orientation (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Orientation_covering"" class=""mw-redirect"" title=""Orientation covering"">orientation covering</a> (or orientation double cover) of a manifold is a two-sheeted covering so that each fiber over <i>x</i> corresponds to two different ways of orienting a neighborhood of <i>x</i>.</dd>
 <dd class=""glossary"">2.&#160;&#160;An <a href=""https://en.wikipedia.org/wiki/Orientation_of_a_manifold"" class=""mw-redirect"" title=""Orientation of a manifold"">orientation of a manifold</a> is a section of an orientation covering; i.e., a consistent choice of a point in each fiber.</dd>
@@ -2766,7 +2925,10 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b372331db039fbac1df6fa94dbc87af06a95cfa7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:3.658ex; height:2.176ex;"" alt=""\Omega X""/></span>. See also <a href=""https://en.wikipedia.org/wiki/Mapping_path_space"" class=""mw-redirect"" title=""Mapping path space"">mapping path space</a>.</dd>
 "
-"phantom map (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"phantom map (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Poincaré (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Poincar%C3%A9_duality_theorem"" class=""mw-redirect"" title=""Poincaré duality theorem"">Poincaré duality theorem</a> says: given a manifold <i>M</i> of dimension <i>n</i> and an abelian group <i>A</i>, there is a natural isomorphism
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {H} _{c}^{*}(M;A)\simeq \operatorname {H} _{n-*}(M;A)}"">
@@ -2810,7 +2972,10 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7fc2e50545dd85354c4fd5bff2b6f23bfa652143"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:25.015ex; height:2.843ex;"" alt=""\operatorname {H} _{c}^{*}(M;A)\simeq \operatorname {H} _{n-*}(M;A)""/></span>.</dd></dl></dd></dl>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture"" title=""Poincaré conjecture"">Poincaré conjecture</a></dd>
 "
-"Pontrjagin–Thom construction (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Pontrjagin–Thom construction (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Postnikov system (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Postnikov_system"" title=""Postnikov system"">Postnikov system</a> is a sequence of fibrations, such that all preceding manifolds have vanishing <a href=""https://en.wikipedia.org/wiki/Homotopy_group"" title=""Homotopy group"">homotopy groups</a> below a given dimension.</dd>
 "
@@ -3197,13 +3362,19 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
 "ring spectrum (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Ring_spectrum"" title=""Ring spectrum"">ring spectrum</a> is a spectrum that satisfying the ring axioms, either on nose or up to homotopy. For example, a <a href=""https://en.wikipedia.org/wiki/Complex_K-theory"" class=""mw-redirect"" title=""Complex K-theory"">complex K-theory</a> is a ring spectrum.</dd>
 "
-"Samelson product (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Samelson product (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Serre (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Jean-Pierre_Serre"" title=""Jean-Pierre Serre"">Jean-Pierre Serre</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;<a href=""https://en.wikipedia.org/w/index.php?title=Serre_class&amp;action=edit&amp;redlink=1"" class=""new"" title=""Serre class (page does not exist)"">Serre class</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Serre_spectral_sequence"" title=""Serre spectral sequence"">Serre spectral sequence</a>.</dd>
 "
-"simple (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"simple (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "simple-homotopy equivalence (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A map ƒ:<i>X</i>→<i>Y</i> between finite simplicial complexes (e.g., manifolds) is a <a href=""https://en.wikipedia.org/wiki/Simple-homotopy_equivalence"" title=""Simple-homotopy equivalence"">simple-homotopy equivalence</a> if it is homotopic to a composition of finitely many <a href=""https://en.wikipedia.org/w/index.php?title=Elementary_expansion&amp;action=edit&amp;redlink=1"" class=""new"" title=""Elementary expansion (page does not exist)"">elementary expansions</a> and <a href=""https://en.wikipedia.org/w/index.php?title=Elementary_collapse&amp;action=edit&amp;redlink=1"" class=""new"" title=""Elementary collapse (page does not exist)"">elementary collapses</a>. A homotopy equivalence is a simple-homotopy equivalence if and only if its <a href=""https://en.wikipedia.org/wiki/Whitehead_torsion"" title=""Whitehead torsion"">Whitehead torsion</a> vanishes.</dd>
 "
@@ -3216,7 +3387,10 @@ If <i>A</i> is a closed subspace of <i>X</i>, then the pair <span class=""mwe-ma
 "simplicial homology (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Simplicial_homology"" title=""Simplicial homology"">simplicial homology</a> is the (canonical) homology of a simplicial complex. Note it applies to simplicial complexes and not to spaces; cf. <a href=""#singular_homology"">#singular homology</a>.</dd>
 "
-"signature invariant (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"signature invariant (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "singular (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;Given a space <i>X</i> and an abelian group π, the <a href=""https://en.wikipedia.org/wiki/Singular_homology_group"" class=""mw-redirect"" title=""Singular homology group"">singular homology group</a> of <i>X</i> with coefficients in π is
 <dl><dd><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \operatorname {H} _{*}(X;\pi )=\operatorname {H} _{*}(C_{*}(X)\otimes \pi )}"">
@@ -3318,8 +3492,14 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/46c01a007b8e60d85ab7d553708484eadf85c9bb"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:13.136ex; height:2.509ex;"" alt=""{\displaystyle \mathbf {Top} \to s\mathbf {Set} }""/></span> from the category of all spaces to the category of simplicial sets, that is the right adjoint to the <a href=""https://en.wikipedia.org/wiki/Geometric_realization_functor"" class=""mw-redirect"" title=""Geometric realization functor"">geometric realization functor</a>.</dd>
 <dd class=""glossary"">3.&#160;&#160;The <b>singular simplicial complex</b> of a space <i>X</i> is the <a href=""https://en.wikipedia.org/wiki/Normalized_chain_complex"" class=""mw-redirect"" title=""Normalized chain complex"">normalized chain complex</a> of the singular simplex of <i>X</i>.</dd>
 "
-"slant product (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"small object argument (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"slant product (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"small object argument (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "smash product (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Smash_product"" title=""Smash product"">smash product</a> of based spaces <i>X</i>, <i>Y</i> is <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X\wedge Y=X\times Y/X\vee Y}"">
   <semantics>
@@ -3445,7 +3625,10 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
 "Steenrod homology (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Steenrod_homology"" title=""Steenrod homology"">Steenrod homology</a>.</dd>
 "
-"Steenrod operation (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Steenrod operation (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "Sullivan (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">1.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Dennis_Sullivan"" title=""Dennis Sullivan"">Dennis Sullivan</a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;The <a href=""https://en.wikipedia.org/wiki/Sullivan_conjecture"" title=""Sullivan conjecture"">Sullivan conjecture</a>.</dd>
@@ -3550,9 +3733,18 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
   </semantics>
 </math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7be582dc2294641e9035c2db4b4bd03093700157"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.838ex; width:28.281ex; height:3.509ex;"" alt=""{\widetilde {\operatorname {H} }}^{*+n}({\text{Th}}(E);\mathbb {Z} )\simeq \operatorname {H} ^{*}(X;\mathbb {Z} )""/></span>.</dd></dl></dd></dl>
 "
-"topological chiral homology (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"transfer (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
-"transgression (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"topological chiral homology (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"transfer (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
+"transgression (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "universal coefficient (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">The <a href=""https://en.wikipedia.org/wiki/Universal_coefficient_theorem"" title=""Universal coefficient theorem"">universal coefficient theorem</a>.</dd>
 "
@@ -3614,7 +3806,10 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
 "Waldhausen S-construction (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary""><a href=""https://en.wikipedia.org/wiki/Waldhausen_S-construction"" class=""mw-redirect"" title=""Waldhausen S-construction"">Waldhausen S-construction</a>.</dd>
 "
-"Wall's finiteness obstruction (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"Wall's finiteness obstruction (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "weak equivalence (Wikipedia Glossary of Algebraic Topology)"¬"
 <dd class=""glossary"">A map ƒ:<i>X</i>→<i>Y</i> of based spaces is a <a href=""https://en.wikipedia.org/wiki/Weak_equivalence_(homotopy_theory)"" title=""Weak equivalence (homotopy theory)"">weak equivalence</a> if for each <i>q</i>, the induced map <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f_{*}:\pi _{q}X\to \pi _{q}Y}"">
   <semantics>
@@ -3671,4 +3866,7 @@ where <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-
 <dd class=""glossary"">3.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Whitehead_torsion"" title=""Whitehead torsion"">Whitehead group</a>.</dd>
 <dd class=""glossary"">4.&#160;&#160;<a href=""https://en.wikipedia.org/wiki/Whitehead_product"" title=""Whitehead product"">Whitehead product</a>.</dd>
 "
-"winding number (Wikipedia Glossary of Algebraic Topology)"¬"TODO"
+"winding number (Wikipedia Glossary of Algebraic Topology)"¬"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Algebraic-Topology-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_algebraic_topology"">""Glossary of algebraic topology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
