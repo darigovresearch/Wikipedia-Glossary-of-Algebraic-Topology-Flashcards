@@ -28,7 +28,7 @@ The base point of a based space."
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle X_{+}}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0f9caabc2ead6f82a8123d91b123018e6e7c48b8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:3.435ex; height:2.509ex;"" alt=""X_{+}""/></span (Wikipedia Glossary of Algebraic Topology)"¬"
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/0f9caabc2ead6f82a8123d91b123018e6e7c48b8"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:3.435ex; height:2.509ex;"" alt=""X_{+}""/></span> (Wikipedia Glossary of Algebraic Topology)"¬"
 For an unbased space <i>X</i>, <i>X</i><sub>+</sub> is the based space obtained by adjoining a disjoint base point."
 "absolute neighborhood retract (Wikipedia Glossary of Algebraic Topology)"¬"
 <p>Looks like this term doesn't have a definition yet.</p>
