@@ -1301,7 +1301,7 @@ A sequence of pointed sets <span class=""mwe-math-element""><span class=""mwe-ma
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle X{\overset {f}{\to }}Y{\overset {g}{\to }}Z}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b730b06aa863adf1bce4ec66bb0ed18d3590b896"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:10.081ex; height:3.843ex;"" alt=""X{\overset {f}{\to }}Y{\overset {g}{\to }}Z""/></span> is <a href=""https://en.wikipedia.org/wiki/Exact_sequence"" title=""Exact sequence"">exact</a> if the image of <i>f</i> coincides with the pre-image of the chosen point of <i>Z</i>./dd>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/b730b06aa863adf1bce4ec66bb0ed18d3590b896"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:10.081ex; height:3.843ex;"" alt=""X{\overset {f}{\to }}Y{\overset {g}{\to }}Z""/></span> is <a href=""https://en.wikipedia.org/wiki/Exact_sequence"" title=""Exact sequence"">exact</a> if the image of <i>f</i> coincides with the pre-image of the chosen point of <i>Z</i>.
 "
 "excision (Wikipedia Glossary of Algebraic Topology)"¬"
 The <a href=""https://en.wikipedia.org/wiki/Excision_theorem"" title=""Excision theorem"">excision</a> axiom for homology says: if <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle U\subset X}"">
